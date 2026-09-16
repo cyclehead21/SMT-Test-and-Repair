@@ -1,16 +1,19 @@
 # Toyota MR2 Spyder SMT — Test, Repair, and Modification Information
 
 Compiled by Cyclehead21@gmail.com.
-
 ## Chapters
-
 - [SMT Quick Shift Mods](docs/quick-shift-mod.md) — Version 1.0
 - [SMT Fluid Discussion](docs/smt-fluid-discussion.md) — Version 1.0; updated September 2026
 - [GSA Overhaul](docs/gsa-overhaul.md) — Version 1.0
 - [SMT Repair Links](docs/smt-repair-links.md) — Initial conversion 0.1
 - [HPU Removal and Overhaul](docs/hpu-removal-and-overhaul.md) — Initial conversion 0.1; source updated July 2026
 - [GSA Removal and Installation](docs/gsa-removal-and-installation.md) — Initial conversion 0.1; source updated May 2025
+- [Cabin Belt Molding](docs/cabin-belt-molding.md) — Initial conversion 0.1
+- [Convertible Top Buyer’s Guide](docs/convertible-top-buyers-guide.md) — Initial conversion 0.1; source updated July 2026
+- [Brake Line Substitute for SMT Hoses](docs/brake-line-substitute-for-smt-hoses.md) — Initial conversion 0.1; source updated May 2024
 
 Contributor credits and photographs are included in the chapters.
 
-The three initial-conversion chapters received formatting and a cursory editorial check; a detailed technical review is planned.
+The initial-conversion chapters received formatting and a cursory editorial check; a detailed technical review is planned.
+
+Dates, prices, supplier details, and warranties in initial-conversion chapters are retained from the source documents; they have not been checked for current accuracy during conversion.
