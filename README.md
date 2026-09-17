@@ -25,6 +25,9 @@ Compiled by Cyclehead21@gmail.com.
 - [Exhaust Flex Joints](docs/exhaust-flex-joints.md) — Initial conversion 0.1
 - [EVAP System & P0440 Codes](docs/evap-system-p0440-codes.md) — Initial conversion 0.1
 - [Engine Lid Hinge Mod](docs/engine-lid-hinge-mod.md) — Initial conversion 0.1
+- [Fog Light Mod — Pre-facelift MR2 Spyder](docs/fog-light-mod.md) — Initial conversion 0.1; source dated August 2024
+- [Frunk Lid Latches](docs/frunk-lid-latches.md) — Initial conversion 0.1
+- [Fuel Pump & Filter Tips](docs/fuel-pump-and-filter-tips.md) — Initial conversion 0.1
 
 Contributor credits and photographs are included in the chapters.
 
