@@ -12,6 +12,10 @@ Compiled by Cyclehead21@gmail.com.
 - [Convertible Top Buyer’s Guide](docs/convertible-top-buyers-guide.md) — Initial conversion 0.1; source updated July 2026
 - [Brake Line Substitute for SMT Hoses](docs/brake-line-substitute-for-smt-hoses.md) — Initial conversion 0.1; source updated May 2024
 
+- [Cyclehead’s Window Wedgies](docs/cycleheads-window-wedgies.md) — Initial conversion 0.1
+- [Convertible Top Installation Guides — with Tips](docs/convertible-top-installation.md) — Initial conversion 0.1
+- [Convert SMT Transmission](docs/convert-smt-transmission.md) — Initial conversion 0.1
+
 Contributor credits and photographs are included in the chapters.
 
 The initial-conversion chapters received formatting and a cursory editorial check; a detailed technical review is planned.
