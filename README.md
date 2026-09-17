@@ -28,6 +28,9 @@ Compiled by Cyclehead21@gmail.com.
 - [Fog Light Mod — Pre-facelift MR2 Spyder](docs/fog-light-mod.md) — Initial conversion 0.1; source dated August 2024
 - [Frunk Lid Latches](docs/frunk-lid-latches.md) — Initial conversion 0.1
 - [Fuel Pump & Filter Tips](docs/fuel-pump-and-filter-tips.md) — Initial conversion 0.1
+- [Headlight Swap](docs/headlight-swap.md) — Initial conversion 0.1
+- [GSA Hydraulics Tutorial](docs/gsa-hydraulics.md) — Initial conversion 0.1
+- [Fuel Tank Removal Notes](docs/fuel-tank-removal.md) — Initial conversion 0.1
 
 Contributor credits and photographs are included in the chapters.
 
