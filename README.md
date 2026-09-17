@@ -20,6 +20,10 @@ Compiled by Cyclehead21@gmail.com.
 - [Engine Diaper Covers](docs/engine-diaper-covers.md) — Initial conversion 0.1
 - [Daytime Running Light Disable](docs/daytime-running-light-disable.md) — Initial conversion 0.1; source updated October 2024
 
+- [Drain Bag “Side Gate Seal” Repair](docs/drain-bag-side-gate-seal-repair.md) — Initial conversion 0.1; source updated October 2024
+- [Door Wedges](docs/door-wedges.md) — Initial conversion 0.1
+- [Door Card Insert Installation](docs/door-card-insert.md) — Initial conversion 0.1
+
 Contributor credits and photographs are included in the chapters.
 
 The initial-conversion chapters received formatting and a cursory editorial check; a detailed technical review is planned.
