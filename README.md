@@ -16,6 +16,10 @@ Compiled by Cyclehead21@gmail.com.
 - [Convertible Top Installation Guides — with Tips](docs/convertible-top-installation.md) — Initial conversion 0.1
 - [Convert SMT Transmission](docs/convert-smt-transmission.md) — Initial conversion 0.1
 
+- [Dip-stick Mod](docs/dipstick-mod.md) — Initial conversion 0.1
+- [Engine Diaper Covers](docs/engine-diaper-covers.md) — Initial conversion 0.1
+- [Daytime Running Light Disable](docs/daytime-running-light-disable.md) — Initial conversion 0.1; source updated October 2024
+
 Contributor credits and photographs are included in the chapters.
 
 The initial-conversion chapters received formatting and a cursory editorial check; a detailed technical review is planned.
