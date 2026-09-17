@@ -1,7 +1,9 @@
 # Toyota MR2 Spyder SMT — Test, Repair, and Modification Information
 
 Compiled by Cyclehead21@gmail.com.
+
 ## Chapters
+
 - [SMT Quick Shift Mods](docs/quick-shift-mod.md) — Version 1.0
 - [SMT Fluid Discussion](docs/smt-fluid-discussion.md) — Version 1.0; updated September 2026
 - [GSA Overhaul](docs/gsa-overhaul.md) — Version 1.0
@@ -11,18 +13,18 @@ Compiled by Cyclehead21@gmail.com.
 - [Cabin Belt Molding](docs/cabin-belt-molding.md) — Initial conversion 0.1
 - [Convertible Top Buyer’s Guide](docs/convertible-top-buyers-guide.md) — Initial conversion 0.1; source updated July 2026
 - [Brake Line Substitute for SMT Hoses](docs/brake-line-substitute-for-smt-hoses.md) — Initial conversion 0.1; source updated May 2024
-
 - [Cyclehead’s Window Wedgies](docs/cycleheads-window-wedgies.md) — Initial conversion 0.1
 - [Convertible Top Installation Guides — with Tips](docs/convertible-top-installation.md) — Initial conversion 0.1
 - [Convert SMT Transmission](docs/convert-smt-transmission.md) — Initial conversion 0.1
-
 - [Dip-stick Mod](docs/dipstick-mod.md) — Initial conversion 0.1
 - [Engine Diaper Covers](docs/engine-diaper-covers.md) — Initial conversion 0.1
 - [Daytime Running Light Disable](docs/daytime-running-light-disable.md) — Initial conversion 0.1; source updated October 2024
-
 - [Drain Bag “Side Gate Seal” Repair](docs/drain-bag-side-gate-seal-repair.md) — Initial conversion 0.1; source updated October 2024
 - [Door Wedges](docs/door-wedges.md) — Initial conversion 0.1
 - [Door Card Insert Installation](docs/door-card-insert.md) — Initial conversion 0.1
+- [Exhaust Flex Joints](docs/exhaust-flex-joints.md) — Initial conversion 0.1
+- [EVAP System & P0440 Codes](docs/evap-system-p0440-codes.md) — Initial conversion 0.1
+- [Engine Lid Hinge Mod](docs/engine-lid-hinge-mod.md) — Initial conversion 0.1
 
 Contributor credits and photographs are included in the chapters.
 
