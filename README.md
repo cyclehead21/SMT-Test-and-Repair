@@ -1,9 +1,7 @@
 # Toyota MR2 Spyder — Test, Repair, and Modification Information
 
 Compiled by Cyclehead21@gmail.com.
-
 ## Chapters
-
 - [SMT Quick Shift Mods](docs/quick-shift-mod.md) — Version 1.0
 - [SMT Fluid Discussion](docs/smt-fluid-discussion.md) — Version 1.0; updated September 2026
 - [GSA Overhaul](docs/gsa-overhaul.md) — Version 1.0
@@ -47,16 +45,17 @@ Compiled by Cyclehead21@gmail.com.
 - [New Spyder Owner Tips](docs/new-spyder-owner-tips.md) — Initial conversion 0.1
 - [MR2 Spyder Floor Mats](docs/floor-mats.md) — Initial conversion 0.1
 - [MR2 Spyder Immobilizer Flash Procedure](docs/immobilizer-flash-procedure.md) — Initial conversion 0.1
-
 - [Plastic Rivets — MR2 Spyder](docs/plastic-rivets.md) — Initial conversion 0.1
 - [Parking Brake Cables — Failure and Preventive Maintenance](docs/parking-brake-cables-failure-and-maintenance.md) — Initial conversion 0.1
 - [Oil Damage to SMT System](docs/oil-damage-to-smt-system.md) — Initial conversion 0.1
-
 - [Position Sensors — Test and Repair](docs/position-sensor-test-and-repair.md) — Initial conversion 0.1
 - [Position Sensor PCBs for Sale](docs/position-sensor-pcbs-for-sale.md) — Initial conversion 0.1
+
+- [Pressure Sensors](docs/pressure-sensors.md) — Initial conversion 0.1; source RevA, February 2023
+- [Pressure Accumulator](docs/pressure-accumulator.md) — Initial conversion 0.1; source updated June 2025
+- [Power Steering Pump — Disassembly](docs/power-steering-pump-disassembly.md) — Initial conversion 0.1
 
 Contributor credits and photographs are included in the chapters.
 
 The initial-conversion chapters received formatting and a cursory editorial check; a detailed technical review is planned.
-
 Dates, prices, supplier details, and warranties in initial-conversion chapters are retained from the source documents; they have not been checked for current accuracy during conversion.
