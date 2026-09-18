@@ -1,9 +1,7 @@
 # Toyota MR2 Spyder — Test, Repair, and Modification Information
 
 Compiled by Cyclehead21@gmail.com.
-
 ## Chapters
-
 - [SMT Quick Shift Mods](docs/quick-shift-mod.md) — Version 1.0
 - [SMT Fluid Discussion](docs/smt-fluid-discussion.md) — Version 1.0; updated September 2026
 - [GSA Overhaul](docs/gsa-overhaul.md) — Version 1.0
@@ -40,6 +38,9 @@ Compiled by Cyclehead21@gmail.com.
 - [Key Fob Programming](docs/key-fob-programming.md) — Initial conversion 0.1
 - [JDM Nose Badges](docs/jdm-nose-badges.md) — Initial conversion 0.1
 - [Input Shaft Speed Sensor](docs/input-shaft-speed-sensor.md) — Initial conversion 0.1
+- [Body Fairings from Ivan Tushkans](docs/body-fairings-from-ivan-tushkans.md) — Initial conversion 0.1
+- [Keyless Entry Installation](docs/keyless-entry-installation.md) — Initial conversion 0.1
+- [Legroom Mod (Radio Support Delete)](docs/legroom-mod.md) — Initial conversion 0.1
 
 Contributor credits and photographs are included in the chapters.
 
