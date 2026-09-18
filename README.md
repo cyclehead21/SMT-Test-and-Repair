@@ -48,6 +48,10 @@ Compiled by Cyclehead21@gmail.com.
 - [MR2 Spyder Floor Mats](docs/floor-mats.md) — Initial conversion 0.1
 - [MR2 Spyder Immobilizer Flash Procedure](docs/immobilizer-flash-procedure.md) — Initial conversion 0.1
 
+- [Plastic Rivets — MR2 Spyder](docs/plastic-rivets.md) — Initial conversion 0.1
+- [Parking Brake Cables — Failure and Preventive Maintenance](docs/parking-brake-cables-failure-and-maintenance.md) — Initial conversion 0.1
+- [Oil Damage to SMT System](docs/oil-damage-to-smt-system.md) — Initial conversion 0.1
+
 Contributor credits and photographs are included in the chapters.
 
 The initial-conversion chapters received formatting and a cursory editorial check; a detailed technical review is planned.
