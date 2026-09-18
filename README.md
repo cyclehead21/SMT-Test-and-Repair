@@ -43,10 +43,10 @@ Compiled by Cyclehead21@gmail.com.
 - [Body Fairings from Ivan Tushkans](docs/body-fairings-from-ivan-tushkans.md) — Initial conversion 0.1
 - [Keyless Entry Installation](docs/keyless-entry-installation.md) — Initial conversion 0.1
 - [Legroom Mod (Radio Support Delete)](docs/legroom-mod.md) — Initial conversion 0.1
-
 - [MR2 Spyder Odometer Edit Procedure](docs/odometer-edit-procedure.md) — Initial conversion 0.1
 - [New Spyder Owner Tips](docs/new-spyder-owner-tips.md) — Initial conversion 0.1
 - [MR2 Spyder Floor Mats](docs/floor-mats.md) — Initial conversion 0.1
+- [MR2 Spyder Immobilizer Flash Procedure](docs/immobilizer-flash-procedure.md) — Initial conversion 0.1
 
 Contributor credits and photographs are included in the chapters.
 
