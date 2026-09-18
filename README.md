@@ -1,9 +1,7 @@
-# Toyota MR2 Spyder SMT — Test, Repair, and Modification Information
+# Toyota MR2 Spyder — Test, Repair, and Modification Information
 
 Compiled by Cyclehead21@gmail.com.
-
 ## Chapters
-
 - [SMT Quick Shift Mods](docs/quick-shift-mod.md) — Version 1.0
 - [SMT Fluid Discussion](docs/smt-fluid-discussion.md) — Version 1.0; updated September 2026
 - [GSA Overhaul](docs/gsa-overhaul.md) — Version 1.0
@@ -31,6 +29,9 @@ Compiled by Cyclehead21@gmail.com.
 - [Headlight Swap](docs/headlight-swap.md) — Initial conversion 0.1
 - [GSA Hydraulics Tutorial](docs/gsa-hydraulics.md) — Initial conversion 0.1
 - [Fuel Tank Removal Notes](docs/fuel-tank-removal.md) — Initial conversion 0.1
+- [HPU Power Relay](docs/hpu-power-relay.md) — Initial conversion 0.1; source updated August 10, 2025
+- [Heel Toe Mod](docs/heel-toe-mod.md) — Initial conversion 0.1
+- [HVAC Backlight](docs/hvac-backlight.md) — Initial conversion 0.1
 
 Contributor credits and photographs are included in the chapters.
 
