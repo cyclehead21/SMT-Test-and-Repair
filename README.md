@@ -1,7 +1,9 @@
 # Toyota MR2 Spyder — Test, Repair, and Modification Information
 
 Compiled by Cyclehead21@gmail.com.
+
 ## Chapters
+
 - [SMT Quick Shift Mods](docs/quick-shift-mod.md) — Version 1.0
 - [SMT Fluid Discussion](docs/smt-fluid-discussion.md) — Version 1.0; updated September 2026
 - [GSA Overhaul](docs/gsa-overhaul.md) — Version 1.0
@@ -32,6 +34,9 @@ Compiled by Cyclehead21@gmail.com.
 - [HPU Power Relay](docs/hpu-power-relay.md) — Initial conversion 0.1; source updated August 10, 2025
 - [Heel Toe Mod](docs/heel-toe-mod.md) — Initial conversion 0.1
 - [HVAC Backlight](docs/hvac-backlight.md) — Initial conversion 0.1
+- [HVAC Decals](docs/hvac-decals.md) — Initial conversion 0.1
+- [HVAC Flaps](docs/hvac-flaps.md) — Initial conversion 0.1
+- [Ignition Switch Contacts - No Start](docs/ignition-switch-contacts-no-start.md) — Initial conversion 0.1
 
 Contributor credits and photographs are included in the chapters.
 
