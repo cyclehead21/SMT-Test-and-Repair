@@ -52,6 +52,9 @@ Compiled by Cyclehead21@gmail.com.
 - [Parking Brake Cables — Failure and Preventive Maintenance](docs/parking-brake-cables-failure-and-maintenance.md) — Initial conversion 0.1
 - [Oil Damage to SMT System](docs/oil-damage-to-smt-system.md) — Initial conversion 0.1
 
+- [Position Sensors — Test and Repair](docs/position-sensor-test-and-repair.md) — Initial conversion 0.1
+- [Position Sensor PCBs for Sale](docs/position-sensor-pcbs-for-sale.md) — Initial conversion 0.1
+
 Contributor credits and photographs are included in the chapters.
 
 The initial-conversion chapters received formatting and a cursory editorial check; a detailed technical review is planned.
