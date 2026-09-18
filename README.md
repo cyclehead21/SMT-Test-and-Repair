@@ -37,6 +37,9 @@ Compiled by Cyclehead21@gmail.com.
 - [HVAC Decals](docs/hvac-decals.md) — Initial conversion 0.1
 - [HVAC Flaps](docs/hvac-flaps.md) — Initial conversion 0.1
 - [Ignition Switch Contacts - No Start](docs/ignition-switch-contacts-no-start.md) — Initial conversion 0.1
+- [Key Fob Programming](docs/key-fob-programming.md) — Initial conversion 0.1
+- [JDM Nose Badges](docs/jdm-nose-badges.md) — Initial conversion 0.1
+- [Input Shaft Speed Sensor](docs/input-shaft-speed-sensor.md) — Initial conversion 0.1
 
 Contributor credits and photographs are included in the chapters.
 
