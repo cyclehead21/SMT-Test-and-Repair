@@ -71,6 +71,8 @@ Compiled by Cyclehead21@gmail.com.
 - [Techstream Relearn Sequence](docs/techstream-relearn-sequence.md) — Initial conversion 0.1
 - [Techstream Installation Instructions — Asela Fernando](docs/techstream-installation-asela.md) — Initial conversion 0.1; includes source update Jan 2026
 - [MR2 Spyder — Convertible Top Strap Installation](docs/convertible-top-strap-installation.md) — Initial conversion 0.1
+- [Wiring Notes for Cruise Control](docs/wiring-for-cruise-control.md) — Initial conversion 0.1
+- [MR2 Spyder Trailer Hitch](docs/mr2-spyder-trailer-hitch.md) — Initial conversion 0.1
 Contributor credits and photographs are included in the chapters.
 The initial-conversion chapters received formatting and a cursory editorial check; a detailed technical review is planned.
 Dates, prices, supplier details, and warranties in initial-conversion chapters are retained from the source documents; they have not been checked for current accuracy during conversion.
