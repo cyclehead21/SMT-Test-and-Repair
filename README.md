@@ -55,6 +55,9 @@ Compiled by Cyclehead21@gmail.com.
 - [Ragtop Gap Behind the Door](docs/ragtop-gap-behind-the-door.md) — Initial conversion 0.1
 - [Quiet Beeper](docs/quiet-beeper.md) — Initial conversion 0.1
 - [Quadlock Compatible Phone Mount](docs/quadlock-phone-mount.md) — Initial conversion 0.1
+- [Reverse and Neutral Switches](docs/reverse-and-neutral-switches.md) — Initial conversion 0.1; source dated Jan 2023
+- [Replace Parking Brake Cables — Without Dropping the Fuel Tank](docs/replace-parking-brake-cables.md) — Initial conversion 0.1; source dated Dec 2024
+- [Ragtop Pull Handle](docs/ragtop-pull-handle.md) — Initial conversion 0.1
 
 Contributor credits and photographs are included in the chapters.
 The initial-conversion chapters received formatting and a cursory editorial check; a detailed technical review is planned.
