@@ -58,6 +58,10 @@ Compiled by Cyclehead21@gmail.com.
 - [Reverse and Neutral Switches](docs/reverse-and-neutral-switches.md) — Initial conversion 0.1; source dated Jan 2023
 - [Replace Parking Brake Cables — Without Dropping the Fuel Tank](docs/replace-parking-brake-cables.md) — Initial conversion 0.1; source dated Dec 2024
 - [Ragtop Pull Handle](docs/ragtop-pull-handle.md) — Initial conversion 0.1
+- [Side Air Vent Removal](docs/side-air-vent-removal.md) — Initial conversion 0.1
+- [SMT Stub Shaft — Gearshift Pattern](docs/smt-stub-shaft-gearshift-pattern.md) — Initial conversion 0.1
+- [Self Relearn Procedure](docs/self-relearn-procedure.md) — Initial conversion 0.1
+- [Replacing the Rod Bearings](docs/replacing-the-rod-bearings.md) — Initial conversion 0.1; source edited July 2025
 
 Contributor credits and photographs are included in the chapters.
 The initial-conversion chapters received formatting and a cursory editorial check; a detailed technical review is planned.
