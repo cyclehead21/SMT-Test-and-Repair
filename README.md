@@ -62,9 +62,11 @@ Compiled by Cyclehead21@gmail.com.
 - [SMT Stub Shaft — Gearshift Pattern](docs/smt-stub-shaft-gearshift-pattern.md) — Initial conversion 0.1
 - [Self Relearn Procedure](docs/self-relearn-procedure.md) — Initial conversion 0.1
 - [Replacing the Rod Bearings](docs/replacing-the-rod-bearings.md) — Initial conversion 0.1; source edited July 2025
-
 - [SMT System — Seal Repair Kits](docs/smt-system-seal-repair-kits.md) — Initial conversion 0.1
 - [SMT Bleed-Down Tests](docs/smt-bleed-down-tests.md) — Initial conversion 0.1
+- [Solenoids](docs/solenoids.md) — Initial conversion 0.1; source updated August 10, 2025
+- [SMT Tips and Tricks](docs/smt-tips-and-tricks.md) — Initial conversion 0.1; source updated September 2024
+- [MR2 Spyder — SMT System Basics](docs/smt-system-basics.md) — Initial conversion 0.1; source dated July 2021
 Contributor credits and photographs are included in the chapters.
 The initial-conversion chapters received formatting and a cursory editorial check; a detailed technical review is planned.
 Dates, prices, supplier details, and warranties in initial-conversion chapters are retained from the source documents; they have not been checked for current accuracy during conversion.
