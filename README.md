@@ -1,5 +1,4 @@
 # Toyota MR2 Spyder — Test, Repair, and Modification Information
-
 Compiled by Cyclehead21@gmail.com.
 ## Chapters
 - [SMT Quick Shift Mods](docs/quick-shift-mod.md) — Version 1.0
@@ -50,12 +49,13 @@ Compiled by Cyclehead21@gmail.com.
 - [Oil Damage to SMT System](docs/oil-damage-to-smt-system.md) — Initial conversion 0.1
 - [Position Sensors — Test and Repair](docs/position-sensor-test-and-repair.md) — Initial conversion 0.1
 - [Position Sensor PCBs for Sale](docs/position-sensor-pcbs-for-sale.md) — Initial conversion 0.1
-
 - [Pressure Sensors](docs/pressure-sensors.md) — Initial conversion 0.1; source RevA, February 2023
 - [Pressure Accumulator](docs/pressure-accumulator.md) — Initial conversion 0.1; source updated June 2025
 - [Power Steering Pump — Disassembly](docs/power-steering-pump-disassembly.md) — Initial conversion 0.1
+- [Ragtop Gap Behind the Door](docs/ragtop-gap-behind-the-door.md) — Initial conversion 0.1
+- [Quiet Beeper](docs/quiet-beeper.md) — Initial conversion 0.1
+- [Quadlock Compatible Phone Mount](docs/quadlock-phone-mount.md) — Initial conversion 0.1
 
 Contributor credits and photographs are included in the chapters.
-
 The initial-conversion chapters received formatting and a cursory editorial check; a detailed technical review is planned.
 Dates, prices, supplier details, and warranties in initial-conversion chapters are retained from the source documents; they have not been checked for current accuracy during conversion.
