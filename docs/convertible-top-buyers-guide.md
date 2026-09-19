@@ -8,7 +8,7 @@ Updated July 2026
 
 I compiled this guide to aid in selection of a replacement convertible top. Convertible top ads are very poorly written, mixing up the materials and manufacturer’s names (on purpose?). I wrote this guide to help you sort through the ads and make the best choice.
 
-Reference: [Convertible top installation](<https://docs.google.com/document/d/12mrIHJkr_tIQCsVpJbF1DKuRbeFR4VgeIt1wDa4zsTk/edit>)
+Reference: [Convertible top installation](<convertible-top-installation.md>)
 
 ## Contents
 

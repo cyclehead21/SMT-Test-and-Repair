@@ -22,7 +22,7 @@
 
 Link to “Convertible Top Buyer’s Guide” that I compiled.
 
-[https://docs.google.com/document/d/12DFL6ZRSFEzPzIcD7hQyJLxyHJ9Ef5u852uiFGtBWhQ/edit?usp=sharing](<https://docs.google.com/document/d/12DFL6ZRSFEzPzIcD7hQyJLxyHJ9Ef5u852uiFGtBWhQ/edit?usp=sharing>)
+[convertible-top-buyers-guide.md](<convertible-top-buyers-guide.md>)
 
 Link to two youtube videos I made summarizing the process:
 
@@ -40,7 +40,7 @@ MR2-Spyder link:
 
 Link to “Ear Strap - details”. More detail about the strap that pulls in the “ears” when you lower the top.
 
-[https://docs.google.com/document/d/1-cWRzPiPzvD3mi4CVcEeIJVmBzr9y5xslUKbFFroRJg/edit?usp=sharing](<https://docs.google.com/document/d/1-cWRzPiPzvD3mi4CVcEeIJVmBzr9y5xslUKbFFroRJg/edit?usp=sharing>)
+[convertible-top-strap-installation.md](<convertible-top-strap-installation.md>)
 
 Link to Midship instructions for removing the top:
 

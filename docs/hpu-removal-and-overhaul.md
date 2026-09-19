@@ -194,7 +194,7 @@ While the HPU is all torn apart, it’s a nice time to try to dig any crap out o
 
 HPU solenoids are usually difficult to remove. They get rusted into their bores. Soak them with a tiny amount of penetrating oil for a few days. (Don’t worry too much about oil contamination since you’re replacing all the o-rings, but don’t go crazy either.) Remove the two long “set screws” that retain them. The pins require a T25 torx tip. Use a nice sharp tip, you don’t want them to strip. These pins can also be rusted in place. Tap a screwdriver tip between the solenoid and the aluminum HPU housing as a wedge. Work opposite sides to get the solenoid to “walk” out. The base of the solenoid is made from fairly heavy steel so you can be fairly aggressive prying/hammering between the base and HPU body (only). Caution: The canister body of the solenoid is a thin sheet metal cover for the electromagnet, so do not hammer or pry on the thin canister!
 
-If you need to disassemble a solenoid for some reason, here is the procedure. [LINK](https://docs.google.com/document/d/1jOwhx82XMJrqSnBWPHDGSPyaJwyn2ZdGPgx-2Es4H7w/edit?usp=sharing)
+If you need to disassemble a solenoid for some reason, here is the procedure. [LINK](solenoids.md)
 
 \- The solenoids have three orings on them. They are successively larger, starting from the tip.
 
@@ -360,7 +360,7 @@ Rusty band that holds the solenoid in place. Probably a good idea to polish this
 
 ![Marked locating areas in the solenoid housing bores](../images/hpu-removal-and-overhaul/31-solenoid-housing-bores.jpg)
 
-Below is a disassembled (destroyed) solenoid. The flange on the spool is pretty heavy steel (bottom piece in the picture). The tin can that covers the electromagnet coil is not! Note the very rusty area on the barrel where this solenoid was stuck firmly into the HPU housing. If you need to disassemble a solenoid, DO NOT do it this way. Details [here](https://docs.google.com/document/d/1jOwhx82XMJrqSnBWPHDGSPyaJwyn2ZdGPgx-2Es4H7w/edit?usp=sharing). 
+Below is a disassembled (destroyed) solenoid. The flange on the spool is pretty heavy steel (bottom piece in the picture). The tin can that covers the electromagnet coil is not! Note the very rusty area on the barrel where this solenoid was stuck firmly into the HPU housing. If you need to disassemble a solenoid, DO NOT do it this way. Details [here](solenoids.md). 
 
 ![Disassembled solenoid shown for reference](../images/hpu-removal-and-overhaul/32-disassembled-solenoid-reference.jpg)
 

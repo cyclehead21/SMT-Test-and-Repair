@@ -6,7 +6,7 @@ Feel free to copy and share, just give me a little credit!
 
 Feel free to email me with any questions - [cyclehead21@gmail.com](mailto:cyclehead21@gmail.com)
 
-“Basics” summary: [SMT System Basics](https://docs.google.com/document/d/1bs5YzmODKbVQluuuRb2OPluUezzK3a5Av4e7DQbn3WA/edit)
+“Basics” summary: [SMT System Basics](smt-system-basics.md)
 
 Below are links to various instructions that I wrote. If you’re starting a repair, it’s best to download a fresh copy of the instructions using a link (not a stored copy). I frequently add new tips and lessons that I learn repairing these things.
 
@@ -26,11 +26,11 @@ SMT fluid:
 
 [HPU Removal and Overhaul](hpu-removal-and-overhaul.md)
 
-[Techstream Download](https://docs.google.com/document/d/1006y677Wq7qDS6OZPNTUGBZGfGpAACF1v597aHFkB2Q/edit?usp=sharing)
+[Techstream Download](techstream-installation-asela.md)
 
-[Techstream Relearn Procedure](https://docs.google.com/document/d/18plSZY42wxWi2hr_fVNonJmR3fit0gxa9GNHlVBSo_k/edit?usp=sharing)
+[Techstream Relearn Procedure](techstream-relearn-sequence.md)
 
-[SMT Tips & Tricks](https://docs.google.com/document/d/18plSZY42wxWi2hr_fVNonJmR3fit0gxa9GNHlVBSo_k/edit)
+[SMT Tips & Tricks](smt-tips-and-tricks.md)
 
 [SMT system overview - Toyota Promotional Video](https://youtu.be/g_4Wn17LCP0)
 
@@ -38,12 +38,12 @@ SMT fluid:
 
 ## Component Description, Testing and Repairs:
 
-[Solenoids](https://docs.google.com/document/d/1jOwhx82XMJrqSnBWPHDGSPyaJwyn2ZdGPgx-2Es4H7w/edit?usp=sharing)
+[Solenoids](solenoids.md)
 
-[Pressure Sensors](https://docs.google.com/document/d/1-w24jghkWvyj-cO4DNMoXuv2EE88Lmbj_RQ1TibuhnI/edit?usp=sharing)
+[Pressure Sensors](pressure-sensors.md)
 
-[Position Sensors](https://docs.google.com/document/d/1nhOfz-fzftVkAwiDWGWP14ELFSblSn_QlyAjLLGRx2M/edit?usp=sharing)
+[Position Sensors](position-sensor-test-and-repair.md)
 
-[Accumulators](https://docs.google.com/document/d/1cyhlZH4NcFVWWFeYYU0GftW072fWUlsm30-UI7rEww4/edit?usp=sharing)
+[Accumulators](pressure-accumulator.md)
 
-[Reverse and Neutral Switches](https://docs.google.com/document/d/141oDsngYmsW6J4AebyGyAsUkGYOWjnagLtWDFc2zz0E/edit)
+[Reverse and Neutral Switches](reverse-and-neutral-switches.md)

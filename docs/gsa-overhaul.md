@@ -64,11 +64,11 @@ The gear shift actuator (GSA) is an assembly of three actuators and two electric
 
 ### Failures
 
-The most common failure of the GSA happens when an actuator piston rod seal starts leaking. The fluid dribbles out of the GSA onto one or two of the Position Sensors. (The third sensor is mounted on top, out of harm’s way) The position sensor(s) fail and quit sending accurate feedback info to the TCU, and the SMT system loses its mind. If you replace the seals and fix the leaks, you may also need to replace or repair some bad position sensors before your SMT system will begin working properly again. Here is a procedure to bench test the position sensors using a 5V power source and a voltmeter. [Position Sensor Testing guide](https://docs.google.com/document/d/1nhOfz-fzftVkAwiDWGWP14ELFSblSn_QlyAjLLGRx2M/edit)
+The most common failure of the GSA happens when an actuator piston rod seal starts leaking. The fluid dribbles out of the GSA onto one or two of the Position Sensors. (The third sensor is mounted on top, out of harm’s way) The position sensor(s) fail and quit sending accurate feedback info to the TCU, and the SMT system loses its mind. If you replace the seals and fix the leaks, you may also need to replace or repair some bad position sensors before your SMT system will begin working properly again. Here is a procedure to bench test the position sensors using a 5V power source and a voltmeter. [Position Sensor Testing guide](position-sensor-test-and-repair.md)
 
 Note: I’ve had good success repairing position sensors. This involves cutting the sensor lid off, and inspecting the conductive strip inside. Youtube video shows the process here: [https://youtube.com/shorts/fXODdR9hTdQ?feature=share](https://youtube.com/shorts/fXODdR9hTdQ?feature=share)
 
-I have also repaired one sensor with broken conductors on the mylar strip, using “conductive paint”. Testing and Repair instructions for Positions Sensors are [here. (Link)](https://docs.google.com/document/d/1nhOfz-fzftVkAwiDWGWP14ELFSblSn_QlyAjLLGRx2M/edit?usp=sharing)
+I have also repaired one sensor with broken conductors on the mylar strip, using “conductive paint”. Testing and Repair instructions for Positions Sensors are [here. (Link)](position-sensor-test-and-repair.md)
 
 ### Relearn
 
@@ -78,7 +78,7 @@ After rebuilding your GSA, you must perform a re-learn process. This process is 
 
 Techstream can be downloaded for free. However, license for a legal password is pricey. One of the guys on the forum wrote a crack to bypass the password screen. The procedure is defined here:
 
-[https://docs.google.com/document/d/1006y677Wq7qDS6OZPNTUGBZGfGpAACF1v597aHFkB2Q/edit?usp=sharing](https://docs.google.com/document/d/1006y677Wq7qDS6OZPNTUGBZGfGpAACF1v597aHFkB2Q/edit?usp=sharing)
+[techstream-relearn-sequence.md](techstream-relearn-sequence.md)
 
 It works.
 

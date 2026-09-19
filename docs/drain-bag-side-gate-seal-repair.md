@@ -53,7 +53,7 @@ Proper installation of new “side gate seals” will require complete removal o
 
 The plastic drain can be seen from outside if you remove the side vent trim. The three plastic clips are always hard and brittle.
 
-[Link](<https://docs.google.com/document/d/1pM4HNBU6C8sgJqhfZbBbeiIaoB78B__JGMhfQeVIpFs/edit?usp=drivesdk>)
+[Link](<drain-bag-side-gate-seal-repair.md>)
 
 ![Access with the side-vent trim removed](../images/drain-bag-side-gate-seal-repair/04-side-vent-access.jpg)
 
