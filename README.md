@@ -24,7 +24,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Fuel Pump & Filter Tips](docs/fuel-pump-and-filter-tips.md) 
 - [Fuel Tank Removal Notes](docs/fuel-tank-removal.md) 
 - [SMT - GSA Hydraulics Tutorial](docs/gsa-hydraulics.md) 
-- [GSA Overhaul](docs/gsa-overhaul.md) 
+- [SMT - GSA Overhaul](docs/gsa-overhaul.md) 
 - [GSA Removal and Installation](docs/gsa-removal-and-installation.md) 
 - [Headlight Swap](docs/headlight-swap.md) 
 - [Heel Toe Mod](docs/heel-toe-mod.md) 
