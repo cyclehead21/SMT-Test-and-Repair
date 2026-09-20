@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# MR2 Spyder — Convertible Top Strap Installation
+# Convertible Top Strap Installation
 
 ## Contents
 
