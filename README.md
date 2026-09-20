@@ -61,7 +61,7 @@ Compiled by Cyclehead21@gmail.com.
 - [SMT - Position Sensors — Test and Repair](docs/position-sensor-test-and-repair.md)
 - [SMT - Pressure Accumulator](docs/pressure-accumulator.md)
 - [SMT - Pressure Sensors](docs/pressure-sensors.md)
-- [SMT Quick Shift Mods](docs/quick-shift-mod.md)
+- [SMT - Quick Shift Mods](docs/quick-shift-mod.md)
 - [SMT - Quiet Beeper](docs/quiet-beeper.md)
 - [SMT - Repair Links](docs/smt-repair-links.md)
 - [SMT - Reverse and Neutral Switches](docs/reverse-and-neutral-switches.md)
