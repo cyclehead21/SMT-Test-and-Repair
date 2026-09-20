@@ -49,7 +49,7 @@ Compiled by Cyclehead21@gmail.com.
 - [SMT - Position Sensors — Test and Repair](docs/position-sensor-test-and-repair.md) 
 - [Power Steering Pump — Disassembly](docs/power-steering-pump-disassembly.md) 
 - [SMT - Pressure Accumulator](docs/pressure-accumulator.md) 
-- [Pressure Sensors](docs/pressure-sensors.md) 
+- [SMT - Pressure Sensors](docs/pressure-sensors.md) 
 - [Quadlock Compatible Phone Mount](docs/quadlock-phone-mount.md) 
 - [Quiet Beeper](docs/quiet-beeper.md) 
 - [Ragtop Gap Behind the Door](docs/ragtop-gap-behind-the-door.md) 
