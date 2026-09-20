@@ -56,12 +56,7 @@ Video links compiled from the source document. The original order and descriptio
 - **Grab bar cover installation:** — [YouTube](https://youtu.be/mFeq0idFn3c)
 - **Rear ended in traffic, rearview camera:** — [YouTube](https://youtu.be/JwYa58NyR-Y)
 - **Clutch pedal play due to plastic bushings:** — [YouTube](https://youtu.be/8jkAefYU0Ds)
-- **Driving XJ12L to Cliffords wedding:** — [YouTube](https://youtu.be/f2p_SIC6Bko)
-- **XJ12L exterior walkaround:** — [YouTube](https://youtu.be/pA8Dpr7sqU8)
-- **XJ12L engine walkaround:** — [YouTube](https://youtu.be/ydrA90szAAU)
-- **XJ12L interior walkaround:** — [YouTube](https://youtu.be/DvG19RPewCw)
-- **XJ12L on the highway:** — [YouTube](https://youtu.be/SHrqeI8XaXs)
-- **XJ12L at 75mph:** — [YouTube](https://youtu.be/fgHapeAx0ss)
+
 
 ---
 
