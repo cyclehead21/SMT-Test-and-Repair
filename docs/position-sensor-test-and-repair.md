@@ -1,6 +1,6 @@
 <a id="position-sensors-test-and-repair"></a>
 
-# Position Sensors - Test and Repair
+# SMT - Position Sensors - Test and Repair
 
 [Back to chapter index](../README.md)
 
