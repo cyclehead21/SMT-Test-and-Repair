@@ -35,7 +35,7 @@ Compiled by Cyclehead21@gmail.com.
 - [HVAC Flaps](docs/hvac-flaps.md) 
 - [Ignition Switch Contacts - No Start](docs/ignition-switch-contacts-no-start.md) 
 - [Immobilizer Flash Procedure](docs/immobilizer-flash-procedure.md) 
-- [Input Shaft Speed Sensor](docs/input-shaft-speed-sensor.md) 
+- [SMT - Input Shaft Speed Sensor](docs/input-shaft-speed-sensor.md) 
 - [JDM Nose Badges](docs/jdm-nose-badges.md) 
 - [Key Fob Programming](docs/key-fob-programming.md) 
 - [Keyless Entry Installation](docs/keyless-entry-installation.md) 
