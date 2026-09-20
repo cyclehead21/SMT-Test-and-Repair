@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# Reverse and Neutral Switches
+# SMT - Reverse and Neutral Switches
 
 Composed by [Cyclehead21@gmail.com](mailto:Cyclehead21@gmail.com), Jan 2023
 
