@@ -69,7 +69,7 @@ Compiled by Cyclehead21@gmail.com.
 - [SMT Tips and Tricks](docs/smt-tips-and-tricks.md) 
 - [SMT - Solenoids](docs/solenoids.md) 
 - [SMT - Techstream Installation Instructions — Asela Fernando](docs/techstream-installation-asela.md) 
-- [Techstream Relearn Sequence](docs/techstream-relearn-sequence.md) 
+- [SMT - Techstream Relearn Sequence](docs/techstream-relearn-sequence.md) 
 - [Tighten and Repair the Soft Top Latches](docs/tighten-and-repair-soft-top-latches.md) 
 - [Trailer Hitch](docs/mr2-spyder-trailer-hitch.md) 
 - [Wiring Notes for Cruise Control](docs/wiring-for-cruise-control.md) 
