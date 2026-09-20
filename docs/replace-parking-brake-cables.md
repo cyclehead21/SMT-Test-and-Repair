@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# Replace Parking Brake Cables
+# Parking Brake Cables - Replace
 
 ## Without Dropping the Fuel Tank
 
