@@ -1,6 +1,6 @@
 [Back to chapter index](../README.md)
 
-# HPU Power Relay
+# SMT - HPU Power Relay
 
 Composed by Cyclehead21@gmail.com
 
