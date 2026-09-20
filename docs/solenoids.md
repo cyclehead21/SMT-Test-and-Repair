@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# Solenoids
+# SMT - Solenoids
 
 Composed by Cyclehead
 
