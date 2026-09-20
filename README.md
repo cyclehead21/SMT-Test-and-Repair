@@ -55,7 +55,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Ragtop Gap Behind the Door](docs/ragtop-gap-behind-the-door.md) 
 - [Ragtop Pull Handle](docs/ragtop-pull-handle.md) 
 - [Replace Parking Brake Cables — Without Dropping the Fuel Tank](docs/replace-parking-brake-cables.md) 
-- [Replacing the Rod Bearings](docs/replacing-the-rod-bearings.md) 
+- [Rod Bearings](docs/replacing-the-rod-bearings.md) 
 - [Reverse and Neutral Switches](docs/reverse-and-neutral-switches.md) 
 - [Self Relearn Procedure](docs/self-relearn-procedure.md) 
 - [Side Vents — Removal and Clips](docs/side-air-vent-removal.md) 
