@@ -1,4 +1,4 @@
-# MR2 Spyder Floor Mats
+# Floor Mats
 
 [Back to chapter index](../README.md)
 
