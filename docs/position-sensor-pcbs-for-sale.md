@@ -1,6 +1,6 @@
 <a id="position-sensor-pcbs-for-sale"></a>
 
-# Position Sensor PCBs for sale
+# SMT - Position Sensor PCBs for sale
 
 Composed by [cyclehead21@gmail.com](<mailto:cyclehead21@gmail.com>)
 
