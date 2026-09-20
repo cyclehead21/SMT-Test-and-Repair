@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# Quiet Beeper
+# SMT - Quiet Beeper
 
 Written by Cyclehead
 
