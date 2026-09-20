@@ -56,7 +56,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Ragtop Pull Handle](docs/ragtop-pull-handle.md) 
 - [Parking Brake Cables - Replace](docs/replace-parking-brake-cables.md) 
 - [Rod Bearings](docs/replacing-the-rod-bearings.md) 
-- [Reverse and Neutral Switches](docs/reverse-and-neutral-switches.md) 
+- [SMT - Reverse and Neutral Switches](docs/reverse-and-neutral-switches.md) 
 - [SMT - Self Relearn Procedure](docs/self-relearn-procedure.md) 
 - [Side Vents — Removal and Clips](docs/side-air-vent-removal.md) 
 - [SMT Bleed-Down Tests](docs/smt-bleed-down-tests.md) 
