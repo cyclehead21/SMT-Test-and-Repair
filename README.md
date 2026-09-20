@@ -43,7 +43,7 @@ Compiled by Cyclehead21@gmail.com.
 - [MR2 Spyder Odometer Edit Procedure](docs/odometer-edit-procedure.md) 
 - [New Spyder Owner Tips](docs/new-spyder-owner-tips.md) 
 - [Floor Mats](docs/floor-mats.md) 
-- [MR2 Spyder Immobilizer Flash Procedure](docs/immobilizer-flash-procedure.md) 
+- [Immobilizer Flash Procedure](docs/immobilizer-flash-procedure.md) 
 - [Plastic Rivets — MR2 Spyder](docs/plastic-rivets.md) 
 - [Parking Brake Cables — Failure and Preventive Maintenance](docs/parking-brake-cables-failure-and-maintenance.md) 
 - [Oil Damage to SMT System](docs/oil-damage-to-smt-system.md) 
