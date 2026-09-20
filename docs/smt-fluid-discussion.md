@@ -1,4 +1,4 @@
-# SMT Fluid Discussion
+# SMT - Fluid Discussion
 
 Written by Cyclehead21@gmail.com
 
