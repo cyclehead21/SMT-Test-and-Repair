@@ -63,7 +63,7 @@ Compiled by Cyclehead21@gmail.com.
 - [SMT - Pressure Sensors](docs/pressure-sensors.md)
 - [SMT Quick Shift Mods](docs/quick-shift-mod.md)
 - [SMT - Quiet Beeper](docs/quiet-beeper.md)
-- [SMT Repair Links](docs/smt-repair-links.md)
+- [SMT - Repair Links](docs/smt-repair-links.md)
 - [SMT - Reverse and Neutral Switches](docs/reverse-and-neutral-switches.md)
 - [SMT - Self Relearn Procedure](docs/self-relearn-procedure.md)
 - [SMT - Solenoids](docs/solenoids.md)
