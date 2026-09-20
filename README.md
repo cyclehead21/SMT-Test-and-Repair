@@ -4,7 +4,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Body Fairings from Ivan Tushkans](docs/body-fairings-from-ivan-tushkans.md) 
 - [Brake Line Substitute for SMT Hoses](docs/brake-line-substitute-for-smt-hoses.md) 
 - [Cabin Belt Molding](docs/cabin-belt-molding.md) 
-- [Convert SMT Transmission](docs/convert-smt-transmission.md) 
+- [SMT - Convert SMT Transmission](docs/convert-smt-transmission.md) 
 - [Convertible Top Buyer’s Guide](docs/convertible-top-buyers-guide.md) 
 - [Convertible Top Installation Guides — with Tips](docs/convertible-top-installation.md) 
 - [Convertible Top Strap Installation](docs/convertible-top-strap-installation.md) 
