@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# Self Relearn Procedure
+# SMT - Self Relearn Procedure
 
 Composed by [Cyclehead21@gmail.com](mailto:Cyclehead21@gmail.com)
 
