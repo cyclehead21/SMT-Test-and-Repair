@@ -1,4 +1,4 @@
-# SMT Quick Shift Mods
+# SMT - Quick Shift Mods
 
 Compiled by Cyclehead21@gmail.com
 
