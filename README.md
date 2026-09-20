@@ -69,7 +69,7 @@ Compiled by Cyclehead21@gmail.com.
 - [SMT - Solenoids](docs/solenoids.md)
 - [SMT - Stub Shaft — Gearshift Pattern](docs/smt-stub-shaft-gearshift-pattern.md)
 - [SMT - System Basics](docs/smt-system-basics.md)
-- [SMT System — Seal Repair Kits](docs/smt-system-seal-repair-kits.md)
+- [SMT — Seal Repair Kits](docs/smt-system-seal-repair-kits.md)
 - [SMT - Techstream Installation Instructions — Asela Fernando](docs/techstream-installation-asela.md)
 - [SMT - Techstream Relearn Sequence](docs/techstream-relearn-sequence.md)
 - [SMT Tips and Tricks](docs/smt-tips-and-tricks.md)
