@@ -1,6 +1,6 @@
 [← Back to chapter index](../README.md)
 
-# Input shaft speed sensor
+# SMT - Input shaft speed sensor
 
 Composed by <Cyclehead21@gmail.com>
 
