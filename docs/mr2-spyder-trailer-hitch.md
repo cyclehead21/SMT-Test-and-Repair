@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# MR2 Spyder Trailer Hitch
+# Trailer Hitch
 
 Designed by Cyclehead
 
