@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# Techstream Relearn Sequence
+# SMT - Techstream Relearn Sequence
 
 Composed by [cyclehead21@gmail.com](mailto:cyclehead21@gmail.com)
 
