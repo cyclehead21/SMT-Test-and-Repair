@@ -1,4 +1,4 @@
-# MR2 Spyder Odometer Edit Procedure
+# Odometer Edit Procedure
 
 [Back to chapter index](../README.md)
 
