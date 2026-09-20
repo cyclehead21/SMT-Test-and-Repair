@@ -6,7 +6,7 @@ Feel free to copy or share.
 
 Let me know if you see any errors.
 
-> **Initial conversion 0.1** — Cursory review only; detailed technical review pending.
+
 
 The evap system has three Vacuum Selector Valves (VSV).
 
