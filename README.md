@@ -42,7 +42,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Legroom Mod (Radio Support Delete)](docs/legroom-mod.md) 
 - [MR2 Spyder Odometer Edit Procedure](docs/odometer-edit-procedure.md) 
 - [New Spyder Owner Tips](docs/new-spyder-owner-tips.md) 
-- [MR2 Spyder Floor Mats](docs/floor-mats.md) 
+- [Floor Mats](docs/floor-mats.md) 
 - [MR2 Spyder Immobilizer Flash Procedure](docs/immobilizer-flash-procedure.md) 
 - [Plastic Rivets — MR2 Spyder](docs/plastic-rivets.md) 
 - [Parking Brake Cables — Failure and Preventive Maintenance](docs/parking-brake-cables-failure-and-maintenance.md) 
