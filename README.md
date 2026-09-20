@@ -25,7 +25,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Fuel Tank Removal Notes](docs/fuel-tank-removal.md) 
 - [SMT - GSA Hydraulics Tutorial](docs/gsa-hydraulics.md) 
 - [SMT - GSA Overhaul](docs/gsa-overhaul.md) 
-- [GSA Removal and Installation](docs/gsa-removal-and-installation.md) 
+- [SMT - GSA Removal and Installation](docs/gsa-removal-and-installation.md) 
 - [Headlight Swap](docs/headlight-swap.md) 
 - [Heel Toe Mod](docs/heel-toe-mod.md) 
 - [HPU Power Relay](docs/hpu-power-relay.md) 
