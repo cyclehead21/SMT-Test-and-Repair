@@ -70,7 +70,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Tighten and Repair the Soft Top Latches](docs/tighten-and-repair-soft-top-latches.md) 
 - [Techstream Relearn Sequence](docs/techstream-relearn-sequence.md) 
 - [Techstream Installation Instructions — Asela Fernando](docs/techstream-installation-asela.md) 
-- [Convertible Top Strap Installation](docs/convertible-top-strap-installation.md) 
+- [MR2 Spyder — Convertible Top Strap Installation](docs/convertible-top-strap-installation.md) 
 - [Wiring Notes for Cruise Control](docs/wiring-for-cruise-control.md) 
 - [MR2 Spyder Trailer Hitch](docs/mr2-spyder-trailer-hitch.md) 
 - [YouTube Index](docs/youtube-index.md) 
