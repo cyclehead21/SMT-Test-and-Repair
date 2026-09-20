@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# SMT Tips and Tricks
+# SMT - Tips and Tricks
 
 Composed by Cyclehead
 
