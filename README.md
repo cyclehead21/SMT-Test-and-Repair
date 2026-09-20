@@ -48,7 +48,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Ragtop Pull Handle](docs/ragtop-pull-handle.md)
 - [Rod Bearings](docs/replacing-the-rod-bearings.md)
 - [Side Vents — Removal and Clips](docs/side-air-vent-removal.md)
-- [SMT Bleed-Down Tests](docs/smt-bleed-down-tests.md)
+- [SMT - Bleed-Down Tests](docs/smt-bleed-down-tests.md)
 - [SMT - Convert SMT Transmission](docs/convert-smt-transmission.md)
 - [SMT - Fluid Discussion](docs/smt-fluid-discussion.md)
 - [SMT - GSA Hydraulics Tutorial](docs/gsa-hydraulics.md)
