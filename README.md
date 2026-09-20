@@ -40,7 +40,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Body Fairings from Ivan Tushkans](docs/body-fairings-from-ivan-tushkans.md) 
 - [Keyless Entry Installation](docs/keyless-entry-installation.md) 
 - [Legroom Mod (Radio Support Delete)](docs/legroom-mod.md) 
-- [MR2 Spyder Odometer Edit Procedure](docs/odometer-edit-procedure.md) 
+- [Odometer Edit Procedure](docs/odometer-edit-procedure.md) 
 - [New Spyder Owner Tips](docs/new-spyder-owner-tips.md) 
 - [Floor Mats](docs/floor-mats.md) 
 - [Immobilizer Flash Procedure](docs/immobilizer-flash-procedure.md) 
