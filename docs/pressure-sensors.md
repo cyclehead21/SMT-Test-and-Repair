@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# Pressure Sensors
+# SMT - Pressure Sensors
 
 RevA - Feb 2023
 
