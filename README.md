@@ -28,7 +28,7 @@ Compiled by Cyclehead21@gmail.com.
 - [SMT - GSA Removal and Installation](docs/gsa-removal-and-installation.md) 
 - [Headlight Swap](docs/headlight-swap.md) 
 - [Heel Toe Mod](docs/heel-toe-mod.md) 
-- [HPU Power Relay](docs/hpu-power-relay.md) 
+- [SMT - HPU Power Relay](docs/hpu-power-relay.md) 
 - [HPU Removal and Overhaul](docs/hpu-removal-and-overhaul.md) 
 - [HVAC Backlight](docs/hvac-backlight.md) 
 - [HVAC Decals](docs/hvac-decals.md) 
