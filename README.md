@@ -66,7 +66,7 @@ Compiled by Cyclehead21@gmail.com.
 - [SMT Bleed-Down Tests](docs/smt-bleed-down-tests.md) 
 - [Solenoids](docs/solenoids.md) 
 - [SMT Tips and Tricks](docs/smt-tips-and-tricks.md) 
-- [MR2 Spyder — SMT System Basics](docs/smt-system-basics.md) 
+- [SMT System Basics](docs/smt-system-basics.md) 
 - [Tighten and Repair the Soft Top Latches](docs/tighten-and-repair-soft-top-latches.md) 
 - [Techstream Relearn Sequence](docs/techstream-relearn-sequence.md) 
 - [Techstream Installation Instructions — Asela Fernando](docs/techstream-installation-asela.md) 
