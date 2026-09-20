@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# SMT Bleed-Down Tests
+# SMT - Bleed-Down Tests
 
 ## Pressure Bleed-Down Test
 
