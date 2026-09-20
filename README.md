@@ -51,7 +51,7 @@ Compiled by Cyclehead21@gmail.com.
 - [SMT - Pressure Accumulator](docs/pressure-accumulator.md) 
 - [SMT - Pressure Sensors](docs/pressure-sensors.md) 
 - [Quadlock Compatible Phone Mount](docs/quadlock-phone-mount.md) 
-- [Quiet Beeper](docs/quiet-beeper.md) 
+- [SMT - Quiet Beeper](docs/quiet-beeper.md) 
 - [Ragtop Gap Behind the Door](docs/ragtop-gap-behind-the-door.md) 
 - [Ragtop Pull Handle](docs/ragtop-pull-handle.md) 
 - [Parking Brake Cables - Replace](docs/replace-parking-brake-cables.md) 
