@@ -1,6 +1,7 @@
 [← Chapter index](../README.md)
 
-# Replacing the Rod Bearings
+# 
+Rod Bearings
 
 <img src="../images/replacing-the-rod-bearings/image4.png" alt="Damaged connecting-rod bearing" width="420">
 
