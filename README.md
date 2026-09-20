@@ -72,5 +72,5 @@ Compiled by Cyclehead21@gmail.com.
 - [Techstream Installation Instructions — Asela Fernando](docs/techstream-installation-asela.md) 
 - [Convertible Top Strap Installation](docs/convertible-top-strap-installation.md) 
 - [Wiring Notes for Cruise Control](docs/wiring-for-cruise-control.md) 
-- [MR2 Spyder Trailer Hitch](docs/mr2-spyder-trailer-hitch.md) 
+- [Trailer Hitch](docs/mr2-spyder-trailer-hitch.md) 
 - [YouTube Index](docs/youtube-index.md) 
