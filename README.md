@@ -54,7 +54,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Quiet Beeper](docs/quiet-beeper.md) 
 - [Ragtop Gap Behind the Door](docs/ragtop-gap-behind-the-door.md) 
 - [Ragtop Pull Handle](docs/ragtop-pull-handle.md) 
-- [Replace Parking Brake Cables — Without Dropping the Fuel Tank](docs/replace-parking-brake-cables.md) 
+- [Parking Brake Cables - Replace](docs/replace-parking-brake-cables.md) 
 - [Rod Bearings](docs/replacing-the-rod-bearings.md) 
 - [Reverse and Neutral Switches](docs/reverse-and-neutral-switches.md) 
 - [Self Relearn Procedure](docs/self-relearn-procedure.md) 
