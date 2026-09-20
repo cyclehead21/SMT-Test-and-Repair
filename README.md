@@ -45,7 +45,7 @@ Compiled by Cyclehead21@gmail.com.
 - [SMT - Oil Damage to SMT System](docs/oil-damage-to-smt-system.md) 
 - [Parking Brake Cables — Failure and Preventive Maintenance](docs/parking-brake-cables-failure-and-maintenance.md) 
 - [Plastic Rivets — MR2 Spyder](docs/plastic-rivets.md) 
-- [Position Sensor PCBs for Sale](docs/position-sensor-pcbs-for-sale.md) 
+- [SMT - Position Sensor PCBs for Sale](docs/position-sensor-pcbs-for-sale.md) 
 - [Position Sensors — Test and Repair](docs/position-sensor-test-and-repair.md) 
 - [Power Steering Pump — Disassembly](docs/power-steering-pump-disassembly.md) 
 - [Pressure Accumulator](docs/pressure-accumulator.md) 
