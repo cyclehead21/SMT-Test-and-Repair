@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# SMT System Basics
+# SMT - System Basics
 
 Composed by Cyclehead, July 2021
 
