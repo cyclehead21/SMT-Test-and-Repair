@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# SMT System - Seal Repair Kits
+# SMT - Seal Repair Kits
 
 [Cyclehead21@gmail.com](mailto:Cyclehead21@gmail.com)
 
