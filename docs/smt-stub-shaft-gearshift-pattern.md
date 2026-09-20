@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# SMT Stub Shaft - Gearshift Pattern
+# SMT - Stub Shaft - Gearshift Pattern
 
 Written by [cyclehead21@gmail.com](mailto:cyclehead21@gmail.com)
 
