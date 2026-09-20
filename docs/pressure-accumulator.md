@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# Pressure Accumulator
+# SMT - Pressure Accumulator
 
 **Written by Cyclehead21@gmail.com**
 
