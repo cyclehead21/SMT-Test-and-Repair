@@ -48,7 +48,7 @@ Compiled by Cyclehead21@gmail.com.
 - [SMT - Position Sensor PCBs for Sale](docs/position-sensor-pcbs-for-sale.md) 
 - [SMT - Position Sensors — Test and Repair](docs/position-sensor-test-and-repair.md) 
 - [Power Steering Pump — Disassembly](docs/power-steering-pump-disassembly.md) 
-- [Pressure Accumulator](docs/pressure-accumulator.md) 
+- [SMT - Pressure Accumulator](docs/pressure-accumulator.md) 
 - [Pressure Sensors](docs/pressure-sensors.md) 
 - [Quadlock Compatible Phone Mount](docs/quadlock-phone-mount.md) 
 - [Quiet Beeper](docs/quiet-beeper.md) 
