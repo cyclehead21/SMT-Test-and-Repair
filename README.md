@@ -67,7 +67,7 @@ Compiled by Cyclehead21@gmail.com.
 - [SMT System Basics](docs/smt-system-basics.md) 
 - [SMT System — Seal Repair Kits](docs/smt-system-seal-repair-kits.md) 
 - [SMT Tips and Tricks](docs/smt-tips-and-tricks.md) 
-- [Solenoids](docs/solenoids.md) 
+- [SMT - Solenoids](docs/solenoids.md) 
 - [SMT - Techstream Installation Instructions — Asela Fernando](docs/techstream-installation-asela.md) 
 - [Techstream Relearn Sequence](docs/techstream-relearn-sequence.md) 
 - [Tighten and Repair the Soft Top Latches](docs/tighten-and-repair-soft-top-latches.md) 
