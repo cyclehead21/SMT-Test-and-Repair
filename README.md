@@ -42,7 +42,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Legroom Mod (Radio Support Delete)](docs/legroom-mod.md) 
 - [New Spyder Owner Tips](docs/new-spyder-owner-tips.md) 
 - [Odometer Edit Procedure](docs/odometer-edit-procedure.md) 
-- [Oil Damage to SMT System](docs/oil-damage-to-smt-system.md) 
+- [SMT - Oil Damage to SMT System](docs/oil-damage-to-smt-system.md) 
 - [Parking Brake Cables — Failure and Preventive Maintenance](docs/parking-brake-cables-failure-and-maintenance.md) 
 - [Plastic Rivets — MR2 Spyder](docs/plastic-rivets.md) 
 - [Position Sensor PCBs for Sale](docs/position-sensor-pcbs-for-sale.md) 
