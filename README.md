@@ -23,7 +23,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Frunk Lid Latches](docs/frunk-lid-latches.md) 
 - [Fuel Pump & Filter Tips](docs/fuel-pump-and-filter-tips.md) 
 - [Fuel Tank Removal Notes](docs/fuel-tank-removal.md) 
-- [GSA Hydraulics Tutorial](docs/gsa-hydraulics.md) 
+- [SMT - GSA Hydraulics Tutorial](docs/gsa-hydraulics.md) 
 - [GSA Overhaul](docs/gsa-overhaul.md) 
 - [GSA Removal and Installation](docs/gsa-removal-and-installation.md) 
 - [Headlight Swap](docs/headlight-swap.md) 
