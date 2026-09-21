@@ -1,6 +1,6 @@
 [Back to chapter index](../README.md)
 
-# Air Bubbles in the SMT System
+# SMT - Air Bubbles in the SMT System
 
 Written by Cyclehead21@gmail.com
 
