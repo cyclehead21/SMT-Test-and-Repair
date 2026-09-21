@@ -6,7 +6,7 @@ Compiled by Cyclehead21@gmail.com.
 
 - [AC Compressor Flexible Lines](docs/ac-compressor-flexible-lines.md)
 - [AC Compressor Notes](docs/ac-compressor-notes.md)
-- [Air Bubbles in the SMT System](docs/air-bubbles-in-smt-system.md)
+- [SMT - Air Bubbles in the SMT System](docs/air-bubbles-in-smt-system.md)
 - [Body Fairings from Ivan Tushkans](docs/body-fairings-from-ivan-tushkans.md)
 - [Brake Line Substitute for SMT Hoses](docs/brake-line-substitute-for-smt-hoses.md)
 - [Cabin Belt Molding](docs/cabin-belt-molding.md)
