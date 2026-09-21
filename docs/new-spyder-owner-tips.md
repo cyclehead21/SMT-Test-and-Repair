@@ -36,7 +36,7 @@ Check your tire pressures every few months, and especially if seasons have chang
 
 ## Ragtop operation:
 
-> **Safety note added during conversion:** Raise or lower the top only when safely parked. The original paragraph below is retained for later review, not as a recommendation to operate the top while driving or to follow a truck closely.
+
 
 It is possible to raise the ragtop while driving, up to 60 mph or so. (Higher if you tuck into the draft behind a tractor-trailer) Best to have a passenger to help. Grab the center handle firmly and close both latches promptly. Caution - you cannot change your mind and lower the top at high speeds. The rear glass will balloon out and prevent closing the top until you slow below 40mph. You can lower the top at speeds below 40 mph.
 
