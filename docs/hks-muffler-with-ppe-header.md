@@ -2,7 +2,7 @@
 
 # HKS Muffler with PPE Header
 
-Cyclehead21@gmail.com
+Composed by Cyclehead21@gmail.com
 
 I scored these parts on a scrapped spyder at LKQ. They charged me \$78.55 total for “muffler and exhaust manifold”.
 
