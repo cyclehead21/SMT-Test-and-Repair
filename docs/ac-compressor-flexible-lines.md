@@ -4,8 +4,6 @@
 
 Composed by Cyclehead21@gmail.com
 
-Created Sept 2025
-
 Feel free to copy and share, just give me a little credit!
 
 ![AC Compressor Flexible Lines photo 1](../images/ac-compressor-flexible-lines/image8.jpg)

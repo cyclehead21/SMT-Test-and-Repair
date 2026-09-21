@@ -4,8 +4,6 @@
 
 Composed by [Cyclehead21@gmail.com](mailto:Cyclehead21@gmail.com)
 
-Updated Dec 2024
-
 Feel free to copy and share, just give me a little credit!
 
 ## Contents
