@@ -136,5 +136,3 @@ This elastic gives up pretty quickly I think. Next the stitching will pull loose
 ![Source figure](../images/convertible-top-strap-installation/image13.jpg)
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

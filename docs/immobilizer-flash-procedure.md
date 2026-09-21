@@ -333,6 +333,5 @@ EDIT: I think the above linked part is no longer available. I believe this one w
 
 ---
 
-*Initial conversion 0.1 — September 18, 2026. Detailed technical review pending.*
 
 [Back to chapter index](../README.md)

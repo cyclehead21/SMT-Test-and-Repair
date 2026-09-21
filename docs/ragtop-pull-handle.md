@@ -19,5 +19,3 @@ Note: I got two of the finished handles in payment off my design. I’m thrilled
 <img src="../images/ragtop-pull-handle/image1.jpg" alt="Ragtop pull handle installed on the convertible top frame" width="624">
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

@@ -195,5 +195,3 @@ Possibly one of the reverse sensor switches have failed. (There are two). They a
 Alternatively, the copper switch contacts in the console shifter may be crudded up. The console shifter switches are susceptible to damage from spilling a soft drink on top of the shifter.
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

@@ -117,5 +117,3 @@ New cable attached to the brake caliper.
 <img src="../images/replace-parking-brake-cables/image7.jpg" alt="New parking brake cable attached to the brake caliper" width="624">
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

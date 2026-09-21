@@ -70,6 +70,5 @@ The pump will run about 25 seconds in the morning when you open the driver’s d
 
 ---
 
-*Initial conversion 0.1 — September 18, 2026. Detailed technical review pending.*
 
 [Back to chapter index](../README.md)

@@ -103,5 +103,3 @@ This step is just nasty. I don’t see a way to neatly remove the brushes withou
 <img src="../images/power-steering-pump-disassembly/09-power-steering-system-outline-and-reference.jpg" alt="Power steering system outline, service hints, and component reference" width="624">
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

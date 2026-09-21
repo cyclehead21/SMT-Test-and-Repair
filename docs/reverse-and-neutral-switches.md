@@ -80,5 +80,3 @@ Factory manual diagnostic pages are below:
 <img src="../images/reverse-and-neutral-switches/image1.png" alt="Transmission showing neutral and reverse switch locations" width="624">
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

@@ -81,5 +81,3 @@ That’s it. If your car successfully completed this “relearn sequence” then
 The ONLY time I’ve had a problem after a successful relearn, was after significant disassembly of the HPU and/or GSA where I introduced a lot of air into the system. ( This happened on two different SMT cars) My car drove fine for 5-10 trips. Then suddenly went stupid. (car wouldn’t shift, red gear light illuminated etc) The fix was to simply let the car sit for 30 minutes or more. Upon restart - everything returned to normal. And the car never displayed any more problems!
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

@@ -56,5 +56,3 @@ I also cut out and resoldered a few feet of extra wire cluttering up the place. 
 ![Source figure](../images/wiring-for-cruise-control/image6.jpg)
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

@@ -37,5 +37,3 @@ I have modeled the clips in CAD and have made the STL file available for anyone 
 <img src="../images/side-air-vent-removal/image2.png" alt="Example commercially available nylon retaining clip compatible with Toyota vent clips" width="500">
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

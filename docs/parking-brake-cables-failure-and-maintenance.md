@@ -254,6 +254,5 @@ Blowing the water out using compressed air:
 
 ---
 
-*Initial conversion 0.1 — September 18, 2026. Detailed technical review pending.*
 
 [Back to chapter index](../README.md)

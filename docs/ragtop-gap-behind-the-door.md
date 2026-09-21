@@ -84,5 +84,3 @@ After repair, and new parts installed.
 <img src="../images/ragtop-gap-behind-the-door/image7.jpg" alt="Ragtop gap after repair and new parts installation" width="624">
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

@@ -8,7 +8,6 @@ Just give me a little credit
 
 Created Sept 2025
 
-> **Initial conversion 0.1** — Cursory review only; detailed technical review pending.
 
 [![Original exhaust flex joint held at the manifold plate.](../images/exhaust-flex-joints/01-original-flex-joint.jpg)](../images/exhaust-flex-joints/01-original-flex-joint.jpg)
 

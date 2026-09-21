@@ -4,7 +4,6 @@
 
 Compiled by <cyclehead21@gmail.com>
 
-*Initial conversion 0.1 — September 18, 2026*
 
 Spyder Key Fob Toyota Part Number: 08191-00922  
 Numbers on the back of the remote FCC ID: BAB237131-056

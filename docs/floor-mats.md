@@ -103,6 +103,5 @@ These are nice thick carpets with a heavy rubber back that has nubs like the fac
 
 ---
 
-*Initial conversion 0.1 — September 18, 2026. Detailed technical review pending.*
 
 [Back to chapter index](../README.md)

@@ -1,6 +1,5 @@
 [← Chapter index](../README.md)
 
-<!-- Initial conversion 0.1; converted 2026-09-18. Detailed technical review deferred. -->
 
 # Ignition Switch Contacts - No Start
 

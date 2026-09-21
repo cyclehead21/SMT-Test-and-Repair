@@ -48,6 +48,5 @@ Apparently there is a piezoelectric beeper that installs in the frunk, but I did
 
 ---
 
-*Initial conversion 0.1 — September 18, 2026. Detailed technical review pending.*
 
 [Back to chapter index](../README.md)

@@ -1,6 +1,5 @@
 [← Chapter index](../README.md)
 
-<!-- Initial conversion 0.1; converted 2026-09-17. Detailed technical review deferred. -->
 
 # Headlight Swap
 

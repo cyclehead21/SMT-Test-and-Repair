@@ -4,7 +4,6 @@ Composed by Cyclehead21@gmail.com
 
 Feel free to copy and share, just give me a little credit!
 
-> **Initial conversion 0.1** — Cursory review only; detailed technical review pending.
 
 This modification allows the engine lid to open fully vertically. After the mod, you don’t need to use the prop rod, because the lid will stay up (unless a gust of wind slams it shut). Alternatively, you can add a gas strut to hold it open.
 

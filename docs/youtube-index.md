@@ -52,5 +52,3 @@ Video links compiled from the source document and arranged alphabetically by tit
 - **Vinyl wrap front bumper - fast motion:** — [YouTube](https://youtube.com/shorts/_FAkLF70-n8?feature=share)
 
 ---
-
-*Initial conversion 0.1 — formatting conversion only; detailed review deferred.*

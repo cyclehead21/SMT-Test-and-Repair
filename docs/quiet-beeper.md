@@ -88,5 +88,3 @@ The beeper is on the top left of the circuit board:
 <img src="../images/quiet-beeper/image7.png" alt="Piezoelectric beeper on the circuit board" width="560">
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

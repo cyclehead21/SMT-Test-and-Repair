@@ -4,7 +4,6 @@
 
 Copied, pasted and edited by <cyclehead21@gmail.com>
 
-*Initial conversion 0.1 — September 18, 2026*
 
 Please share!
 

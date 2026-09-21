@@ -275,5 +275,3 @@ Here is a disassembled (and destroyed) solenoid. Notice the thin metal canister 
 ![Source figure](../images/solenoids/image6.jpg)
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

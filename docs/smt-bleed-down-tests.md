@@ -80,5 +80,3 @@ I have speculated that leakage past an actuator piston seal (the teflon seals) i
 - Run 8.5 sec
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

@@ -67,5 +67,3 @@ I can usually accommodate rush shipping. UPS next-day air seems to be pretty rel
 <img src="../images/smt-system-seal-repair-kits/image3.png" alt="HPU seal repair kit components in labeled envelopes" width="624">
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

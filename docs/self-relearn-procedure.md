@@ -17,5 +17,3 @@ Reconnect the battery and switch on ignition but don’t engage the starter (don
 **Note:** The “self relearn” sequence appears to duplicate some of the “full relearn” processes. If it initiates and completes successfully, then I don’t believe that it is necessary to perform a “full relearn”.
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

@@ -275,5 +275,3 @@ This \$125 scanner from Amazon appears to read TCU codes and perform the full re
 https://a.co/d/4168cmC
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

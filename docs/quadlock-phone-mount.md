@@ -25,5 +25,3 @@ This can all be accomplished without crawling under the dashboard.
 <img src="../images/quadlock-phone-mount/image3.jpg" alt="Square dashboard insert cover with center rivnut" width="624">
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

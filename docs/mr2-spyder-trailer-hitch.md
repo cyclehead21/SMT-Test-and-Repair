@@ -91,5 +91,3 @@ I towed this 4x8 trailer with my spyder ONE TIME only. It was a little heavy on 
 ![Source figure](../images/mr2-spyder-trailer-hitch/image11.jpg)
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

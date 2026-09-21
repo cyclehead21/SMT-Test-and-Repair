@@ -131,5 +131,3 @@ HPU pressure sensor (same as accumulator pressure) is installed on the HPU:
 <img src="../images/pressure-sensors/11-hpu-pressure-vs-voltage.png" alt="HPU Pressure vs Voltage chart" width="624">
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

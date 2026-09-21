@@ -94,5 +94,3 @@ I got his link from a Toyota 4 Runner site. I have not tried it. Please let me k
 https://forum.ih8mud.com/threads/how-to-techstream-in-5-minutes.1034923/
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

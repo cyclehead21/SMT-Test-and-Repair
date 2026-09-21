@@ -163,5 +163,3 @@ Monkeywrenchracing also sells new accumulators. Theirs are currently listed for 
 [https://www.monkeywrenchracing.com/product/mwr-hydraulic-accumulator-mr2-spyder-smt-pump-hpu/](<https://www.monkeywrenchracing.com/product/mwr-hydraulic-accumulator-mr2-spyder-smt-pump-hpu/>)
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

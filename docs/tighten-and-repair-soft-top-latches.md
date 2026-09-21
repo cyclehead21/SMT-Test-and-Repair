@@ -108,5 +108,3 @@ Add a little grease in the tracks to make the latch work more smoothly
 ![Source figure](../images/tighten-and-repair-soft-top-latches/image3.png)
 
 ---
-
-*Publication status: Initial conversion 0.1. Formatting and cursory editorial check only; detailed technical review is pending.*

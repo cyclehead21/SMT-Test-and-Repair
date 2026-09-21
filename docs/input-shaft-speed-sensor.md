@@ -4,7 +4,6 @@
 
 Composed by <Cyclehead21@gmail.com>
 
-*Initial conversion 0.1 — September 18, 2026*
 
 Feel free to copy and share this information.
 
