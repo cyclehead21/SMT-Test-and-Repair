@@ -6,7 +6,7 @@ This procedure shows how to download a copy of Techstream software directly from
 
 Note: it’s best to run this software on a spare / old windows laptop that is dedicated for that purpose. You need to set the computer’s date-clock to something like 2005 to fool the software. It’s also helpful to keep the laptop’s WiFi access turned off so it won’t keep prompting you to download a newer version.
 
-### Techstream File and Drivers Download: [here](https://www.aselafernando.com/files/20211208_MVCI_drivers.zip)
+### Techstream File links, Drivers Download and Instructions: [here](https://www.aselafernando.com/files/20211208_MVCI_drivers.zip)
 
 Per Asela, his batch file will work fine with Windows 7,8,10 and 11. It will work on 32 or 64 bit laptops.
 
@@ -24,18 +24,6 @@ Mini Vci J2534 Cable for Toyota... [https://www.amazon.com/dp/B07ZCC8QG9?ref=ppx
 
 ![Source figure](../images/techstream-installation-asela/image1.png)
 
-### Warning Message: “Download Blocked Due to Virus Protection”
-UPDATE:  THIS TIP IS SUPERFLUOUS WITH ASELA'S NEW BATCH FILE.  FEEL FREE TO DISREGARD 
-Windows11 has a nasty blocker. I had to hit “tamper protection”, then turn off “real time protection” and “cloud-delivered protection”. I had to leave them off until AFTER I downloaded the zip file drivers, and until after I had extracted all the zipped files.
-
-The first step in Asela’s instructions is to “Extract the zip file”. I had trouble with this step. Click on the “Extract/Compressed Folder Tools” bar on top of the window and look for the “extract all files” button. (If you don’t extract the files, the X-horse file will not show up under setup/VIM select. I wasted about an hour with this step!)
-
-The next step is to run the “install” file “run as administrator”. I did not have any “run as administrator” option. Stuck…because I had failed to “extract the files” first!! Simply running this batch file (without “running as administrator” will NOT get the job done.) If “run as administrator” does not appear as an option when you right click on the install.bat file, then you have not correctly extracted the files from the zip folder. Go back, and extract the files.
-
-**Warning message: “Windows protected your PC”**. Hit the “more info” highlighted text. Then hit the “run anyway” button. Warning message: “ Do you want to allow this app to make changes…” - Hit “Yes” button.
-
-Instructions say to “download the latest version of Techstream, and run the .exe installer. “ The file will be named something like GTS_SetupEU_V17… and show as an “application” type file. That’s the executable file you want.
-
 ### Techstream “Setup” Step Problems
 
 Instructions say to select “X-Horse M-VCI” from the “setup” pulldown tab. However “X-Horse M-VCI” did not appear in the Techstream/Setup pull-down. So I ran the install.bat file again, but THIS time I ran the installation as administrator (like the instructions say), and the system gave me warnings about virus and unsafe software. That fixed it! “X-Horse M-VCI” then appeared in the pulldown under “Setup” per the instructions.
@@ -45,14 +33,6 @@ Instructions say to select “X-Horse M-VCI” from the “setup” pulldown tab
 Ignore this. Hit “no”.
 
 ![Source figure](../images/techstream-installation-asela/image8.jpg)
-
-### Tip Regarding Step 3 j
-
-To edit the Techstream shortcut path, you must right click on the shortcut and scroll down to “properties”. It will open a window where you can edit the path. Make sure to type in the new path EXACTLY as written. Include spaces where they are shown. Once I failed to leave the space where shown and the shortcut would not work. Solution: Type the new shortcut path exactly as Asela shows!
-
-Ie: (...techstream.exe” MUST INSERT ONE SPACE HERE /395070…),
-
-You must type over a portion of the path (was mainmenu.com = change to techstream.com), plus add the right slash /395070… type everything EXACTLY as instructed.
 
 ### Tip Regarding USB Communication
 
