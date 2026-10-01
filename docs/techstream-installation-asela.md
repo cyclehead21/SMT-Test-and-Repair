@@ -10,10 +10,6 @@ Note: it’s best to run this software on a spare / old windows laptop that is d
 
 Per Asela, his batch file will work fine with Windows 7,8,10 and 11. It will work on 32 or 64 bit laptops.
 
-Update Jan 2026:
-
-Asela recently revised his installation procedures here (link above). Some of my tips below are not necessary.  I'll tidy them up soon.
-
 ---
 
 ## My Notes and Tips
@@ -53,15 +49,6 @@ Note, Old versions of Techstream will work fine on our 20 year old Spyders! Also
 Here is the “obsolete version” error message:
 
 ![Source figure](../images/techstream-installation-asela/image9.jpg)
-
-## Asela’s Techstream Instructions — Reference Copy
-
-
-[![Source figure](../images/techstream-installation-asela/image5.png)![Source figure](../images/techstream-installation-asela/image4.png)![Source figure](../images/techstream-installation-asela/image6.png)](https://www.aselafernando.com/files/Toyota%20GTS%20Installation.pdf)
-
-![Source figure](../images/techstream-installation-asela/image7.png)
-
-![Source figure](../images/techstream-installation-asela/image3.png)
 
 ## Alternative Download
 
