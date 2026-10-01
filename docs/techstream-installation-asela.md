@@ -1,14 +1,16 @@
 [← Chapter index](../README.md)
 
-# Copy of Asela Fernando’s Techstream Installation Instructions
+# Asela’s Techstream Installation 
 
-This procedure shows how to download a copy of Techstream software directly from Toyota’s website. Then download a batch file that Asela wrote. The batch file bypasses the registration screen (and the \$\$\$ fee). I think this method is safer than using the chinese software that comes with the J2534 cable from Amazon. I’ve read that those discs can be loaded with spyware.
+This procedure shows how to download a copy of Techstream software directly from Toyota’s website. 
 
-Note: it’s best to run this software on a spare / old windows laptop that is dedicated for that purpose. You need to set the computer’s date-clock to something like 2005 to fool the software. It’s also helpful to keep the laptop’s WiFi access turned off so it won’t keep prompting you to download a newer version.
+Then download and run a batch file that Asela wrote. The batch file bypasses the registration screen (and the \$\$\$ fee). I think this method is safer than using the chinese software that comes with the J2534 cable from Amazon. I’ve read that those discs can be loaded with spyware.
+
+It’s best to run this software on a spare / old windows laptop that is dedicated for that purpose. You need to set the computer’s date-clock to something like 2005 to fool the software. It’s also helpful to keep the laptop’s WiFi access turned off so it won’t keep prompting you to download a newer version.
 
 ### Techstream File links, Drivers Download and Instructions: [here](https://www.aselafernando.com/files/20211208_MVCI_drivers.zip)
 
-Per Asela, his batch file will work fine with Windows 7,8,10 and 11. It will work on 32 or 64 bit laptops.
+Asela's batch file will work fine with Windows 7,8,10 and 11. It will work on 32 or 64 bit laptops.
 
 ---
 
