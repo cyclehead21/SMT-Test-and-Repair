@@ -10,7 +10,7 @@ Note: it’s best to run this software on a spare / old windows laptop that is d
 
 ### Asela’s Instructions
 
-[**https://www.aselafernando.com/files/Toyota%20GTS%20Installation.pdf**](https://www.aselafernando.com/files/Toyota%20GTS%20Installation.pdf)
+[**https://www.aselafernando.com/files/Toyota%20GTS%20Installation.pdf**](https://www.aselafernando.com/files/Toyota%20Techstream%20Installation%2020251229.pdf)
 
 Per Asela, his batch file will work fine with Windows 7,8,10 and 11. It will work on 32 or 64 bit laptops.
 
@@ -29,7 +29,7 @@ Mini Vci J2534 Cable for Toyota... [https://www.amazon.com/dp/B07ZCC8QG9?ref=ppx
 ![Source figure](../images/techstream-installation-asela/image1.png)
 
 ### Warning Message: “Download Blocked Due to Virus Protection”
-
+UPDATE:  THIS TIP IS SUPERFLUOUS WITH ASELA'S NEW BATCH FILE.  FEEL FREE TO DISREGARD 
 Windows11 has a nasty blocker. I had to hit “tamper protection”, then turn off “real time protection” and “cloud-delivered protection”. I had to leave them off until AFTER I downloaded the zip file drivers, and until after I had extracted all the zipped files.
 
 The first step in Asela’s instructions is to “Extract the zip file”. I had trouble with this step. Click on the “Extract/Compressed Folder Tools” bar on top of the window and look for the “extract all files” button. (If you don’t extract the files, the X-horse file will not show up under setup/VIM select. I wasted about an hour with this step!)
