@@ -8,15 +8,11 @@ Note: it’s best to run this software on a spare / old windows laptop that is d
 
 ### Techstream File and Drivers Download: [here](https://www.aselafernando.com/files/20211208_MVCI_drivers.zip)
 
-### Asela’s Instructions
-
-[**https://www.aselafernando.com/files/Toyota%20GTS%20Installation.pdf**](https://www.aselafernando.com/files/Toyota%20Techstream%20Installation%2020251229.pdf)
-
 Per Asela, his batch file will work fine with Windows 7,8,10 and 11. It will work on 32 or 64 bit laptops.
 
 Update Jan 2026:
 
-Asela has revised his installation procedures here: [Link](https://www.aselafernando.com/files/Toyota%20Techstream%20Installation%2020251229.pdf). I have not used his updated procedures or his updated batch file. I believe some of the manual steps have been streamlined and automated. If so, then some of my tips below will not be needed. I’ll update my tips as soon as I try his new process.
+Asela recently revised his installation procedures here (link above). Some of my tips below are not necessary.  I'll tidy them up soon.
 
 ---
 
