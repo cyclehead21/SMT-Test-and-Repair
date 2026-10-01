@@ -16,7 +16,7 @@ Ref: Toyota Part Number 89419-0W010 (early), 89419-0W020 (late)
 
 (Note: ALL position sensors are interchangeable!)
 
-<img src="../images/position-sensor-test-and-repair/01-position-sensor-front.png" alt="![Position sensor, front view" width="200"> <img src="../images/position-sensor-test-and-repair/02-position-sensor-arm.png" alt="![![Position sensor, arm and connector view" width="200">
+<img src="../images/position-sensor-test-and-repair/01-position-sensor-front.png" alt="![Position sensor, front view" width="235"> <img src="../images/position-sensor-test-and-repair/02-position-sensor-arm.png" alt="![![Position sensor, arm and connector view" width="200">
 
 <a id="table-of-contents"></a>
 
