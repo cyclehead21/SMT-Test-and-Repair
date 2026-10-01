@@ -254,7 +254,7 @@ Tip: Manually shift the transmission into 2nd or 4th gear. This will move the ac
 
 How to install position sensors on GSA: [https://youtu.be/7SZ4vbpYv30](<https://youtu.be/7SZ4vbpYv30>)
 
-Caution: if you fail to get the tip of the sensor into the slot, the actuator will cycle and rip the arm off of your sensor and destroy it.
+Caution: if you fail to get the tip of the sensor into the slot, THE ACTUATOR WILL STROKE AND DESTROY YOUR IRREPLACEABLE SENSOR!
 
 <a id="programming"></a>
 
