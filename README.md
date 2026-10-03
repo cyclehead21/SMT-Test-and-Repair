@@ -57,6 +57,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Side Vents — Removal and Clips](docs/side-air-vent-removal.md)
 - [SMT - Air Bubbles in the SMT System](docs/air-bubbles-in-smt-system.md)
 - [SMT - Bleed-Down Tests](docs/smt-bleed-down-tests.md)
+- [SMT - Clutch Grab Point Relearn](docs/smt-clutch-grab-point-relearn.md)
 - [SMT - Convert SMT Transmission](docs/convert-smt-transmission.md)
 - [SMT - Fluid Discussion](docs/smt-fluid-discussion.md)
 - [SMT - GSA Hydraulics Tutorial](docs/gsa-hydraulics.md)
