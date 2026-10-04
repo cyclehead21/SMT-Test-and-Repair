@@ -1,6 +1,6 @@
 [Back to chapter index](../README.md)
 
-# Console Shifter for SMT
+# SMT - Console Shifter 
 
 Composed by [Cyclehead21@gmail.com](mailto:Cyclehead21@gmail.com)
 
