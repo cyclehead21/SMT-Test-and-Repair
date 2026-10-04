@@ -2,7 +2,7 @@
 
 Composed by cyclehead21@gmail.com
 
-![Modified dipstick handle in the engine bay](../images/dipstick-mod/01-engine-bay-dipstick-handle.png)
+<img src="../images/dipstick-mod/01-engine-bay-dipstick-handle.png" alt="Modified dipstick handle in the engine bay" width="500">
 
 The Spyder dipstick is notoriously hard to read. The dipstick cable goes in a steel tube that snakes around the side of the engine through two 90 degree turns and two offset joggles. The result is that by the time you’ve withdrawn the cable, the oil is smeared all over the scale and it’s impossible to read.
 
