@@ -1,6 +1,6 @@
 [Back to chapter index](../README.md)
 
-# Clutch Choices for SMT
+# SMT - Clutch Choices
 
 Composed by Cyclehead21@gmail.com
 
