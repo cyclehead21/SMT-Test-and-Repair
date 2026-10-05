@@ -10,7 +10,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Brake Line Substitute for SMT Hoses](docs/brake-line-substitute-for-smt-hoses.md)
 - [Cabin Belt Molding](docs/cabin-belt-molding.md)
 - [Convertible Top Buyer’s Guide](docs/convertible-top-buyers-guide.md)
-- [Convertible Top Installation Guides — with Tips](docs/convertible-top-installation.md)
+- [Convertible Top Installation Guides](docs/convertible-top-installation.md)
 - [Convertible Top Strap Installation](docs/convertible-top-strap-installation.md)
 - [Cyclehead’s Window Wedgies](docs/cycleheads-window-wedgies.md)
 - [Daytime Running Light Disable](docs/daytime-running-light-disable.md)
