@@ -59,6 +59,7 @@ Compiled by Cyclehead21@gmail.com.
 - [SMT - Clutch Grab Point Relearn](docs/smt-clutch-grab-point-relearn.md)
 - [SMT - Console shifter](docs/console-shifter.md)
 - [SMT - Convert SMT Transmission](docs/convert-smt-transmission.md)
+- [SMT - Fluid flush](docs/smt-fluid-flush.md)
 - [SMT - Fluid Discussion](docs/smt-fluid-discussion.md)
 - [SMT - GSA Hydraulics Tutorial](docs/gsa-hydraulics.md)
 - [SMT - GSA Overhaul](docs/gsa-overhaul.md)
