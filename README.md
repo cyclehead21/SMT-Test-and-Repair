@@ -79,7 +79,7 @@ Compiled by Cyclehead21@gmail.com.
 - [SMT - Solenoids](docs/solenoids.md)
 - [SMT - Stub Shaft — Gearshift Pattern](docs/smt-stub-shaft-gearshift-pattern.md)
 - [SMT - System Basics](docs/smt-system-basics.md)
-- [SMT - Techstream Installation Instructions — Asela Fernando](docs/techstream-installation-asela.md)
+- [SMT - Techstream Installation](docs/techstream-installation-asela.md)
 - [SMT - Techstream Relearn Sequence](docs/techstream-relearn-sequence.md)
 - [SMT - Tips and Tricks](docs/smt-tips-and-tricks.md)
 - [Tighten and Repair the Soft Top Latches](docs/tighten-and-repair-soft-top-latches.md)
