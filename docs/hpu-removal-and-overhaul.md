@@ -1,4 +1,4 @@
-# HPU Removal
+# SMT - HPU Removal and Overhaul
 
 HPU Part Number: 31360-0W010
 
