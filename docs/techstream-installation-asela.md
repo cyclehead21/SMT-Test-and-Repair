@@ -1,6 +1,6 @@
 [← Chapter index](../README.md)
 
-# Asela’s Techstream Installation 
+# SMT - Techstream Installation 
 
 This procedure shows how to download a copy of Techstream software directly from Toyota’s website. 
 
