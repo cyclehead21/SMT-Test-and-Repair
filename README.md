@@ -12,7 +12,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Convertible Top Buyer’s Guide](docs/convertible-top-buyers-guide.md)
 - [Convertible Top Installation Guides](docs/convertible-top-installation.md)
 - [Convertible Top Strap Installation](docs/convertible-top-strap-installation.md)
-- [Cyclehead’s Window Wedgies](docs/cycleheads-window-wedgies.md)
+- [Window Wedgies](docs/cycleheads-window-wedgies.md)
 - [Daytime Running Light Disable](docs/daytime-running-light-disable.md)
 - [Dip-stick Mod](docs/dipstick-mod.md)
 - [Door Card Insert Installation](docs/door-card-insert.md)
