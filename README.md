@@ -7,7 +7,6 @@ Compiled by Cyclehead21@gmail.com.
 - [AC Compressor Flexible Lines](docs/ac-compressor-flexible-lines.md)
 - [AC Compressor Notes](docs/ac-compressor-notes.md)
 - [Body Fairings from Ivan Tushkans](docs/body-fairings-from-ivan-tushkans.md)
-- [SMT - Hoses using Brake Line Substitute](docs/brake-line-substitute-for-smt-hoses.md)
 - [Cabin Belt Molding](docs/cabin-belt-molding.md)
 - [Convertible Top Buyer’s Guide](docs/convertible-top-buyers-guide.md)
 - [Convertible Top Installation Guides](docs/convertible-top-installation.md)
