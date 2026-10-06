@@ -74,7 +74,7 @@ Compiled by Cyclehead21@gmail.com.
 - [SMT - Quiet Beeper](docs/quiet-beeper.md)
 - [SMT - Repair Links](docs/smt-repair-links.md)
 - [SMT - Reverse and Neutral Switches](docs/reverse-and-neutral-switches.md)
-- [SMT — Seal Repair Kits](docs/smt-system-seal-repair-kits.md)
+- [SMT - Seal Repair Kits](docs/smt-system-seal-repair-kits.md)
 - [SMT - Self Relearn Procedure](docs/self-relearn-procedure.md)
 - [SMT - Solenoids](docs/solenoids.md)
 - [SMT - Stub Shaft — Gearshift Pattern](docs/smt-stub-shaft-gearshift-pattern.md)
