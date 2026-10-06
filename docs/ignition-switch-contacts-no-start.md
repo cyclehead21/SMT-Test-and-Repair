@@ -1,7 +1,6 @@
-[← Chapter index](../README.md)
-
-
 # Ignition Switch Contacts - No Start
+
+[Return to index](../README.md)
 
 Researched, invented and documented by cyclehead21@gmail.com
 
@@ -51,4 +50,4 @@ Lubricate/protect the contacts with some suitable grease. I used Dow Corning sil
 
 ![Electrical switch location under the steering column](../images/ignition-switch-contacts-no-start/08-switch-location-under-steering-column.jpg)
 
-[← Chapter index](../README.md)
+[Return to index](../README.md)

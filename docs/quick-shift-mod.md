@@ -1,5 +1,7 @@
 # SMT - Quick Shift Mods
 
+[Return to index](../README.md)
+
 Compiled by Cyclehead21@gmail.com
 
 Let me know if you see any errors.
@@ -88,3 +90,5 @@ After either modification and any cable adjustment:
 3. Confirm that the throttle cable and housing are aligned and do not rub or bind.
 4. With the ignition on, verify normal electronic throttle operation and listen for abnormal friction or binding noise.
 5. After reassembly, perform a cautious road test. Confirm normal throttle response, normal shifting, and no warning lights or abnormal throttle behavior.
+
+[Return to index](../README.md)

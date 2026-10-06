@@ -1,7 +1,6 @@
-[← Chapter index](../README.md)
-
-
 # HVAC Flaps
+
+[Return to index](../README.md)
 
 Remove the glovebox for access to some of the clips and flaps.
 
@@ -9,4 +8,4 @@ Remove the glovebox for access to some of the clips and flaps.
 
 ![Heater control assembly and control cables](../images/hvac-flaps/02-heater-control-assembly.png)
 
-[← Chapter index](../README.md)
+[Return to index](../README.md)

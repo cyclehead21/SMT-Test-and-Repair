@@ -1,6 +1,6 @@
 # Keyless entry system installation
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)
 
 Written by Cyclehead21@gmail.com
 
@@ -48,5 +48,4 @@ Apparently there is a piezoelectric beeper that installs in the frunk, but I did
 
 ---
 
-
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

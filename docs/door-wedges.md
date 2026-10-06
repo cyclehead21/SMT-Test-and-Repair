@@ -1,5 +1,7 @@
 # Door Wedges
 
+[Return to index](../README.md)
+
 Compiled by [Cyclehead21@gmail.com](<mailto:Cyclehead21@gmail.com>)
 
 ## Contents
@@ -55,3 +57,5 @@ $200 amayama.com in Japan “Genuine Toyota MS304-00001”.
 ![Plastic wedges and retaining brackets at the door](../images/door-wedges/03-wedge-brackets.jpg)
 
 ![Steel retaining brackets installed on the door](../images/door-wedges/04-brackets-installed.jpg)
+
+[Return to index](../README.md)

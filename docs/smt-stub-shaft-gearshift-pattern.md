@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # SMT - Stub Shaft - Gearshift Pattern
+
+[Return to index](../README.md)
 
 Written by [cyclehead21@gmail.com](mailto:cyclehead21@gmail.com)
 
@@ -25,3 +25,5 @@ ie: To engage 5th gear on a 5 speed box, you would move the handle to the far ri
 <img src="../images/smt-stub-shaft-gearshift-pattern/image4.jpg" alt="Six-speed shift pattern" width="500">
 
 ---
+
+[Return to index](../README.md)

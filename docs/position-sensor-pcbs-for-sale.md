@@ -2,9 +2,9 @@
 
 # SMT - Position Sensor PCBs for sale
 
-Composed by [cyclehead21@gmail.com](<mailto:cyclehead21@gmail.com>)
+[Return to index](../README.md)
 
-[Back to chapter index](../README.md)
+Composed by [cyclehead21@gmail.com](<mailto:cyclehead21@gmail.com>)
 
 Feel free to copy and share.
 
@@ -90,5 +90,4 @@ I try to make the sealant look pretty, but I’m not an artist.
 
 ---
 
-
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

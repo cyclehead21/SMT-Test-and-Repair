@@ -1,5 +1,7 @@
 # Engine lid mod
 
+[Return to index](../README.md)
+
 Composed by Cyclehead21@gmail.com
 
 Feel free to copy and share, just give me a little credit!
@@ -33,4 +35,4 @@ Video summary:
 
 <https://youtube.com/shorts/W68Op_0VwRA?si=RDvrD-n57FGzf8Px>
 
-[Back to chapter list](../README.md)
+[Return to index](../README.md)

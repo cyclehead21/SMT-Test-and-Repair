@@ -1,5 +1,7 @@
 # Convertible top installation
 
+[Return to index](../README.md)
+
 **Tips written by Cyclehead21@gmail.com**
 
 **Feel free to share, copy, and duplicate**
@@ -306,3 +308,5 @@ The cable must be tucked under the metal tab, and the tab bent back down. To rea
 4. Tuck the cable under the metal tab, and bend it down with a small hammer
 
 The 2 elastic loops that are sewn to the top (by the door jambs) are not used. At least on any tops I’ve ever installed. I just cut them off so they don’t get snagged on the frame as it folds.
+
+[Return to index](../README.md)

@@ -1,5 +1,7 @@
 # SMT - Fluid Discussion
 
+[Return to index](../README.md)
+
 Written by Cyclehead21@gmail.com
 
 Updated September 2026
@@ -228,3 +230,5 @@ The SMT Owners Manual below warns against “fluid other than Genuine Toyota Flu
 If you like cheap DOT 3 brake fluid that is relabeled as pricey SMT fluid, then you will absolutely love molybdenum paste that Toyota has relabeled as “SMT Grease”! It is also very pricey.
 
 ![Toyota SMT Grease package](../images/smt-fluid-discussion/17-smt-grease-package.jpg)
+
+[Return to index](../README.md)

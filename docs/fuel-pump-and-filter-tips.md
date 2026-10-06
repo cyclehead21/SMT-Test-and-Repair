@@ -1,6 +1,6 @@
 # Fuel Pump Removal Tips
 
-[← Back to chapter index](../README.md)
+[Return to index](../README.md)
 
 By [cyclehead21@gmail.com](<mailto:cyclehead21@gmail.com>)
 
@@ -74,4 +74,4 @@ Fuel sock push-nut part number 23219-23010 also available from Amazon $5
 
 ![Fuel sender contact board removed from its housing](../images/fuel-pump-and-filter-tips/09-sender-contact-board.png)
 
-[← Back to chapter index](../README.md)
+[Return to index](../README.md)

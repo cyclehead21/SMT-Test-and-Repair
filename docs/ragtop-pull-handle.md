@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # Ragtop Pull Handle
+
+[Return to index](../README.md)
 
 <img src="../images/ragtop-pull-handle/image3.jpg" alt="Ragtop pull handle installed" width="624">
 
@@ -19,3 +19,5 @@ Note: I got two of the finished handles in payment off my design. I’m thrilled
 <img src="../images/ragtop-pull-handle/image1.jpg" alt="Ragtop pull handle installed on the convertible top frame" width="624">
 
 ---
+
+[Return to index](../README.md)

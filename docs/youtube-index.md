@@ -1,5 +1,7 @@
 # YouTube Index
 
+[Return to index](../README.md)
+
 Video links compiled from the source document and arranged alphabetically by title.
 
 - **2GR swap walkaround - bottom side:** — [YouTube](https://youtu.be/5SrPzOIxpGo)
@@ -52,3 +54,5 @@ Video links compiled from the source document and arranged alphabetically by tit
 - **Vinyl wrap front bumper - fast motion:** — [YouTube](https://youtube.com/shorts/_FAkLF70-n8?feature=share)
 
 ---
+
+[Return to index](../README.md)

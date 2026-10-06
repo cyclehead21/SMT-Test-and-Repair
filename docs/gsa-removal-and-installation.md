@@ -1,5 +1,7 @@
 # SMT - GSA Removal and Installation
 
+[Return to index](../README.md)
+
 **Written by Cyclehead**
 
 **Feel free to share, copy, and duplicate**
@@ -272,3 +274,5 @@ If you must unscrew the hoses, you really need a pair of “knipex” pliers. Th
 The plastic clips on top of the transmission: These will snag on the hoses, and prevent you from removing the GSA. However you really need to clip them all properly upon re-installation. I have seen the soft hoses chafed clear through if they are not used! There are two clips for each hose. They are hard to reach. Note the routing. One hose goes toward the center of the car. The other two go towards the drivers side of the car (to the left in this photo). There is a metal bracket between, and you must feed them to the correct side.
 
 ![Hydraulic hose routing and retaining clips above the transmission](../images/gsa-removal-and-installation/15-hydraulic-hose-routing.jpg)
+
+[Return to index](../README.md)

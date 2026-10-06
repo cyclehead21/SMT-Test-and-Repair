@@ -1,5 +1,7 @@
 # Engine diaper covers
 
+[Return to index](../README.md)
+
 I’m not sure why some folks purposely remove the lower covers. They were designed for a purpose. The rear bumper cover can catch some air at high speed if the diapers are missing.
 
 And I’m certain that Ferrari owners at the shop would be pretty upset if we removed their underbody panels and threw them away for easier access to the oil filter, or “just because”.
@@ -29,3 +31,5 @@ On one rescue Spyder I made a replacement diaper from scratch (rear diaper only)
 ![Replacement cover with circular cutouts and fasteners](../images/engine-diaper-covers/07-panel-with-cutouts.png)
 
 ![Finished replacement rear engine cover installed, using the crop in the Word source](../images/engine-diaper-covers/08-finished-panel-installed.png)
+
+[Return to index](../README.md)

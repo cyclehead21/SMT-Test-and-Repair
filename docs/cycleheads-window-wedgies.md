@@ -1,5 +1,7 @@
 # Cyclehead’s Window Wedgies
 
+[Return to index](../README.md)
+
 ![Window wedgie held beside the dashboard](../images/cycleheads-window-wedgies/01-wedgie-in-hand.jpg)
 
 ![Window wedgie installed beside the A-pillar, interior view](../images/cycleheads-window-wedgies/02-wedgie-interior-installation.jpg)
@@ -81,3 +83,5 @@ Installation [Video Link](<https://youtube.com/shorts/wyMtkX_YQN0?si=NC4RvxTOmCh
 ![Smooth-surface Cyclehead logo](../images/cycleheads-window-wedgies/09-smooth-surface-cyclehead-logo.jpg)
 
 ![Installed wedgie viewed from outside the car](../images/cycleheads-window-wedgies/10-exterior-installed-wedgie.jpg)
+
+[Return to index](../README.md)

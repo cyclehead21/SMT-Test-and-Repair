@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # Ragtop Gap Behind the Door
+
+[Return to index](../README.md)
 
 Composed by [cyclehead21@gmail.com](mailto:cyclehead21@gmail.com)
 
@@ -84,3 +84,5 @@ After repair, and new parts installed.
 <img src="../images/ragtop-gap-behind-the-door/image7.jpg" alt="Ragtop gap after repair and new parts installation" width="624">
 
 ---
+
+[Return to index](../README.md)

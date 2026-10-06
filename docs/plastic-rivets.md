@@ -2,7 +2,7 @@
 
 # Plastic Rivets - MR2 Spyder
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)
 
 “Auveco” appears to be the high quality manufacturer for auto body hardware.
 
@@ -156,5 +156,4 @@ Website is a little quirky.
 
 ---
 
-
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

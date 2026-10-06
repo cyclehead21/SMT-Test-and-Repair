@@ -1,6 +1,6 @@
-[← Back to chapter index](../README.md)
-
 # JDM Nose Badges
+
+[Return to index](../README.md)
 
 Copied, pasted and edited by <cyclehead21@gmail.com>
 
@@ -56,4 +56,4 @@ We chose color "white" and here it is! All finished and applied to the bumper co
 
 Reference: Wayback link <https://web.archive.org/web/20121017083650/http://rides.webshots.com/album/437215126MJjyRJ>
 
-[← Back to chapter index](../README.md)
+[Return to index](../README.md)

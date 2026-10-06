@@ -1,6 +1,6 @@
-[Back to chapter index](../README.md)
-
 # Heel Toe Mod
+
+[Return to index](../README.md)
 
 Written by Cyclehead
 
@@ -64,4 +64,4 @@ It sticks out about 1.5 inches from the LH side of the gas pedal. On this one, I
 
 ![Heel Toe Mod photograph](../images/heel-toe-mod/image4.jpg)
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

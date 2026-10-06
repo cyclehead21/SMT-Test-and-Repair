@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # SMT - Tips and Tricks
+
+[Return to index](../README.md)
 
 Composed by Cyclehead
 
@@ -275,3 +275,5 @@ This \$125 scanner from Amazon appears to read TCU codes and perform the full re
 https://a.co/d/4168cmC
 
 ---
+
+[Return to index](../README.md)

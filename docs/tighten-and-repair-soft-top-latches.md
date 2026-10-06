@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # Tighten and Repair the Soft Top Latches
+
+[Return to index](../README.md)
 
 ![Source figure](../images/tighten-and-repair-soft-top-latches/image10.png)
 
@@ -108,3 +108,5 @@ Add a little grease in the tracks to make the latch work more smoothly
 ![Source figure](../images/tighten-and-repair-soft-top-latches/image3.png)
 
 ---
+
+[Return to index](../README.md)

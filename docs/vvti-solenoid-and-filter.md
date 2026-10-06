@@ -1,5 +1,7 @@
 # VVTi Solenoid and Filter
 
+[Return to index](../README.md)
+
 <img src="../images/vvti-solenoid-and-filter/01-vvti-solenoid.jpg" alt="VVTi solenoid" width="360">
 <img src="../images/vvti-solenoid-and-filter/02-vvti-filter.png" alt="VVTi filter screen" width="160">
 
@@ -69,3 +71,5 @@ Remove the engine mount plate from the engine block
 VVTi filter is under the 14 mm cap (blue). VVTi solenoid is held by one 10 mm bolt (green)
 
 ![VVTi filter cap marked blue and solenoid marked green](../images/vvti-solenoid-and-filter/06-filter-cap-and-solenoid-locations.jpg)
+
+[Return to index](../README.md)

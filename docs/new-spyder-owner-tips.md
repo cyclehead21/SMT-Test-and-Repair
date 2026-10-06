@@ -1,6 +1,6 @@
 # Tips for an MR2 Spyder owner
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)
 
 ## Engine Oil Level:
 
@@ -70,5 +70,4 @@ The pump will run about 25 seconds in the morning when you open the driver’s d
 
 ---
 
-
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

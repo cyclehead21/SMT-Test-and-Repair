@@ -1,5 +1,7 @@
 # Brake line substitute for SMT hoses
 
+[Return to index](../README.md)
+
 **Written by Cyclehead**
 
 **Feel free to share, copy, and duplicate, just give me a little credit.**
@@ -57,3 +59,5 @@ Another option is to buy these hoses from Monkeywrenchracing.com for $50 each. T
 [https://www.monkeywrenchracing.com/product/mwr-hydraulic-hose-assembly-toyota-mr2-spyder-smt-gold/](<https://www.monkeywrenchracing.com/product/mwr-hydraulic-hose-assembly-toyota-mr2-spyder-smt-gold/>)
 
 ![Saved Monkeywrench Racing hydraulic hose product screenshot](../images/brake-line-substitute-for-smt-hoses/07-mwr-hose-screenshot.jpg)
+
+[Return to index](../README.md)

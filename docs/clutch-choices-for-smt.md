@@ -1,6 +1,6 @@
-[Back to chapter index](../README.md)
-
 # SMT - Clutch Choices
+
+[Return to index](../README.md)
 
 Composed by Cyclehead21@gmail.com
 
@@ -98,4 +98,4 @@ These two below would NOT complete the TCU self-check as the clutch fork is too 
 
 ![Clutch Choices for SMT photo 8](../images/clutch-choices-for-smt/image5.jpg)
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

@@ -1,5 +1,7 @@
 # SMT - Fluid flush
 
+[Return to index](../README.md)
+
 Composed by [Cyclehead21@gmail.com](mailto:Cyclehead21@gmail.com)
 
 ## To change SMT fluid
@@ -45,3 +47,5 @@ If you care to enter the “magic Toyota SMT system fluid” debate, here are my
 It’s wise to periodically check the lower surface of the GSA for fluid leaks. The system will usually run for quite a long time with a slow leak, but eventually will quit shifting due to low fluid level or contaminated sensors.
 
 [How to find GSA leaks](https://youtu.be/miinrmJShLM?si=-qXUrz9pImgiEmbA)
+
+[Return to index](../README.md)

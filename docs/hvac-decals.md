@@ -1,7 +1,6 @@
-[← Chapter index](../README.md)
-
-
 # HVAC Decals
+
+[Return to index](../README.md)
 
 By [Cyclehead21@gmail.com](mailto:Cyclehead21@gmail.com)
 
@@ -87,4 +86,4 @@ New trim rings!
 
 ![Completed HVAC control panel](../images/hvac-decals/10-replacement-decals-installed.png)
 
-[← Chapter index](../README.md)
+[Return to index](../README.md)

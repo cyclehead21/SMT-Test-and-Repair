@@ -1,6 +1,6 @@
-[Back to chapter index](../README.md)
-
 # AC Compressor Flexible Lines
+
+[Return to index](../README.md)
 
 Composed by Cyclehead21@gmail.com
 
@@ -60,4 +60,4 @@ NOTICE my alignment marks are almost completely scrubbed off. Not a good idea! T
 
 ![AC Compressor Flexible Lines photo 10](../images/ac-compressor-flexible-lines/image5.jpg)
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

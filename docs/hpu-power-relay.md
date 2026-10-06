@@ -1,6 +1,6 @@
-[Back to chapter index](../README.md)
-
 # SMT - HPU Power Relay
+
+[Return to index](../README.md)
 
 Composed by Cyclehead21@gmail.com
 
@@ -34,4 +34,4 @@ The same relay is used as a Honda Odyssey Rear Window defroster relay.
 
 ![HPU Power Relay photograph](../images/hpu-power-relay/image1.jpg)
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

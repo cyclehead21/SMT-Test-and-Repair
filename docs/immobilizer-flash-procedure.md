@@ -1,7 +1,6 @@
-
 ## Immobilizer Flash Procedure
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)
 
 ## Contents:
 
@@ -333,5 +332,4 @@ EDIT: I think the above linked part is no longer available. I believe this one w
 
 ---
 
-
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

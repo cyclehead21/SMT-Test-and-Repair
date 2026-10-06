@@ -1,5 +1,7 @@
 # Drain Bag “Side Gate Seal” repair
 
+[Return to index](../README.md)
+
 Written by Cyclehead21@gmail.com
 
 Updated Oct 2024
@@ -137,3 +139,5 @@ This was an early repair I made using some scrap vinyl material, and a metal dra
 ![Earlier homemade vinyl drain-bag repair](../images/drain-bag-side-gate-seal-repair/22-earlier-vinyl-repair.jpg)
 
 ![Earlier vinyl repair installed with a metal drain screen](../images/drain-bag-side-gate-seal-repair/23-earlier-repair-installed.jpg)
+
+[Return to index](../README.md)

@@ -1,7 +1,6 @@
-[← Chapter index](../README.md)
-
-
 # Headlight Swap
+
+[Return to index](../README.md)
 
 Composed by Cyclehead21@gmail.com
 
@@ -25,4 +24,4 @@ Note the “daytime running light” feature will send low voltage to the high b
 
 ![Facelift headlight wiring diagram](../images/headlight-swap/02-facelift-headlight-wiring.png)
 
-[← Chapter index](../README.md)
+[Return to index](../README.md)

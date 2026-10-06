@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # SMT - Reverse and Neutral Switches
+
+[Return to index](../README.md)
 
 Composed by [Cyclehead21@gmail.com](mailto:Cyclehead21@gmail.com), Jan 2023
 
@@ -80,3 +80,5 @@ Factory manual diagnostic pages are below:
 <img src="../images/reverse-and-neutral-switches/image1.png" alt="Transmission showing neutral and reverse switch locations" width="624">
 
 ---
+
+[Return to index](../README.md)

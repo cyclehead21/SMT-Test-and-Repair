@@ -1,5 +1,7 @@
 # SMT - GSA Overhaul
 
+[Return to index](../README.md)
+
 **Written by Cyclehead**
 
 **Feel free to share, copy, and duplicate**
@@ -405,3 +407,5 @@ Right - Clutch Actuator Piston
 The solenoids will fit into either bore, but only one is correct. Check to make sure the wires go to the connector as shown. (For reference: Shift solenoid is shown on the left adjacent to the hoses, and “Select” solenoid is shown on the right adjacent to the clutch actuator.)
 
 ![Source reference photograph of solenoid positions and connector](../images/gsa-overhaul/37-solenoid-positions.jpg)
+
+[Return to index](../README.md)

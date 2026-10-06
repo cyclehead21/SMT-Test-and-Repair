@@ -1,6 +1,6 @@
-[← Back to chapter index](../README.md)
-
 # Key FOBs for the Spyder
+
+[Return to index](../README.md)
 
 Compiled by <cyclehead21@gmail.com>
 
@@ -385,4 +385,4 @@ Step 5 - After the Hazard lights stop flashing (up to 20 times) press and hold t
 
 Step 6 - To save the above, turn Key from "OFF" to "ON", then Back to "OFF", then remove key, close the driver door and test the buttons on the remote.”
 
-[← Back to chapter index](../README.md)
+[Return to index](../README.md)

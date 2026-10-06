@@ -1,6 +1,6 @@
-[Back to chapter index](../README.md)
-
 # Gas Door Removal
+
+[Return to index](../README.md)
 
 The gas door frequently gets bent and the hinge gets stiff or frozen.
 
@@ -54,4 +54,4 @@ Gas door and hinge removed.
 
 ![Gas Door Removal photo 7](../images/gas-door/image4.jpg)
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

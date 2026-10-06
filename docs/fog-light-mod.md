@@ -1,6 +1,6 @@
 # Fog Light Mod
 
-[← Back to chapter index](../README.md)
+[Return to index](../README.md)
 
 ![Completed fog light installation on the car](../images/fog-light-mod/01-completed-fog-light.jpg)
 
@@ -136,4 +136,4 @@ Alternately, a factory spyder foglight switch is about $40 from Amayama:
 
 <https://www.amayama.com/en/part/toyota/8416095d00>
 
-[← Back to chapter index](../README.md)
+[Return to index](../README.md)

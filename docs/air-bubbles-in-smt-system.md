@@ -1,6 +1,6 @@
-[Back to chapter index](../README.md)
-
 # SMT - Air Bubbles in the SMT System
+
+[Return to index](../README.md)
 
 Written by Cyclehead21@gmail.com
 
@@ -50,4 +50,4 @@ I rebuilt another GSA, and swapped it into my daily driver (it has become a test
 
 I rebuilt a GSA on an SMT Spyder from Tennessee. I drove the car around the neighborhood for 2 weeks - many short trips to exercise the GSA. The owner picked up the car and drove towards their home in Tennessee. 2 hours later they called - the car was stuck at a rest stop 60 miles away. All the warning lights were illuminated, and it would not shift into any gears! I told them I would retrieve the car and drove to find it. When I arrived, the car started fine, shifted fine and all the warning lights were extinguished. Apparently the 2 hour “rest” was sufficient to resolve the air bubble. I drove it 60 miles home without any problems.
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

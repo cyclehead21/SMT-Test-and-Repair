@@ -1,6 +1,6 @@
-[Back to chapter index](../README.md)
-
 # HKS Muffler with PPE Header
+
+[Return to index](../README.md)
 
 Composed by Cyclehead21@gmail.com
 
@@ -66,4 +66,4 @@ Both stock and PPE system have mismatch causing preload in the mid-pipe/header. 
 
 ![HKS Muffler with PPE Header photo 9](../images/hks-muffler-with-ppe-header/image8.png)
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

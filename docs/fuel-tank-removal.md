@@ -1,7 +1,6 @@
-[← Chapter index](../README.md)
-
-
 # Fuel Tank Removal Notes
+
+[Return to index](../README.md)
 
 Composed by Cyclehead21@gmail.com
 
@@ -39,4 +38,4 @@ While the tank is out, it’s a good time to use a siphon to remove sand and chu
 
 Scrub tank sealing surfaces for fuel pump seal and vent seal using scotchbrite.
 
-[← Chapter index](../README.md)
+[Return to index](../README.md)

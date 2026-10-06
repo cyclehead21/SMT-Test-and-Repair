@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # Side Vents - Removal and Clips
+
+[Return to index](../README.md)
 
 Written by [Cyclehead21@gmail.com](mailto:Cyclehead21@gmail.com)
 
@@ -37,3 +37,5 @@ I have modeled the clips in CAD and have made the STL file available for anyone 
 <img src="../images/side-air-vent-removal/image2.png" alt="Example commercially available nylon retaining clip compatible with Toyota vent clips" width="500">
 
 ---
+
+[Return to index](../README.md)

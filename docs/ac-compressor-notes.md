@@ -1,6 +1,6 @@
-[Back to chapter index](../README.md)
-
 # AC Compressor Notes
+
+[Return to index](../README.md)
 
 Composed by Cyclehead21@gmail.com
 
@@ -74,4 +74,4 @@ Photos are below: . . . .
 
 ![AC Compressor Notes photo 5](../images/ac-compressor-notes/image2.jpg)
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

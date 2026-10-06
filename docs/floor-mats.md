@@ -1,6 +1,6 @@
 # Floor Mats
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)
 
 Compiled by [Cyclehead21@gmail.com](<mailto:Cyclehead21@gmail.com>)
 
@@ -103,5 +103,4 @@ These are nice thick carpets with a heavy rubber back that has nubs like the fac
 
 ---
 
-
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

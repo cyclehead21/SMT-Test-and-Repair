@@ -1,6 +1,7 @@
-[← Chapter index](../README.md)
-
 # 
+
+[Return to index](../README.md)
+
 Rod Bearings
 
 <img src="../images/replacing-the-rod-bearings/image4.png" alt="Damaged connecting-rod bearing" width="420">
@@ -86,3 +87,5 @@ Note that aftermarket bearings (bearings not made by Toyota) typically offer “
 <img src="../images/replacing-the-rod-bearings/image8.jpg" alt="Blank or black source image" width="420">
 
 ---
+
+[Return to index](../README.md)

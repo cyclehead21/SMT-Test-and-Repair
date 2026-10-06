@@ -1,6 +1,6 @@
-[Back to chapter index](../README.md)
-
 # SMT - Console Shifter 
+
+[Return to index](../README.md)
 
 Composed by [Cyclehead21@gmail.com](mailto:Cyclehead21@gmail.com)
 
@@ -64,4 +64,4 @@ The spring and steel ball are circled in green. The racetrack is circled in blue
 
 ![Console Shifter for SMT photo 7](../images/console-shifter/image4.jpg)
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

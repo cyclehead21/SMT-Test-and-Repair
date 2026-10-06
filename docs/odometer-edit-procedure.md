@@ -1,6 +1,6 @@
 # Odometer Edit Procedure
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)
 
 ## Credit:
 
@@ -278,5 +278,4 @@ Skip to 3:50. (Enjoy the toothbrush pointer!)
 
 ---
 
-
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

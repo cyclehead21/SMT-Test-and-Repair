@@ -1,5 +1,7 @@
 # SMT - Links
 
+[Return to index](../README.md)
+
 Composed by Cyclehead
 
 Feel free to copy and share, just give me a little credit!
@@ -47,3 +49,5 @@ SMT fluid:
 [Accumulators](pressure-accumulator.md)
 
 [Reverse and Neutral Switches](reverse-and-neutral-switches.md)
+
+[Return to index](../README.md)

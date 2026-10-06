@@ -1,6 +1,6 @@
 # MR2 Spyder - Body Fairings
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)
 
 Made by Ivan Tushkans, Irkutsk, Russia
 
@@ -90,5 +90,4 @@ Contact me on Facebook Messenger to order parts and coordinate payment.
 
 ---
 
-
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

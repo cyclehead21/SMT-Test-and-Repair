@@ -1,5 +1,7 @@
 # Daytime Running Light Disable
 
+[Return to index](../README.md)
+
 Compiled by [cyclehead21@gmail.com](mailto:cyclehead21@gmail.com)
 
 Updated Oct 2024
@@ -49,3 +51,5 @@ For info: Facelift Spyders have an extra fuse box that holds two fuses and two D
 ![D2 connector pin-numbering diagram from the source](../images/daytime-running-light-disable/05-d2-connector-pin-numbering.png)
 
 ![DRL wiring-diagram excerpt from the source](../images/daytime-running-light-disable/06-drl-wiring-diagram.png)
+
+[Return to index](../README.md)

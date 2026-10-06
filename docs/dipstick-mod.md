@@ -1,5 +1,7 @@
 # Dip-stick mod
 
+[Return to index](../README.md)
+
 Composed by cyclehead21@gmail.com
 
 <img src="../images/dipstick-mod/01-engine-bay-dipstick-handle.png" alt="Modified dipstick handle in the engine bay" width="500">
@@ -93,3 +95,5 @@ The blade will go just under 1 inch into the plastic handle:
 ![Ruler showing the blade insertion depth into the plastic handle](../images/dipstick-mod/11-handle-insertion-depth.jpg)
 
 ![Separated blade and handle beside a ruler](../images/dipstick-mod/12-blade-and-handle-reference.jpg)
+
+[Return to index](../README.md)

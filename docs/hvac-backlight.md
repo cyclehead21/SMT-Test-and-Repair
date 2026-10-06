@@ -1,6 +1,6 @@
-[Back to chapter index](../README.md)
-
 # HVAC Backlight
+
+[Return to index](../README.md)
 
 *Heating, ventilation, and air conditioning*
 
@@ -140,4 +140,4 @@ Fixed! Finally I can see my HVAC knobs at night again.
 
 ![HVAC Backlight photograph](../images/hvac-backlight/image6.png)
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

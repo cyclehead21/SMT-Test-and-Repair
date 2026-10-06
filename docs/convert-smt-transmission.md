@@ -1,5 +1,7 @@
 # SMT - Convert SMT transmission
 
+[Return to index](../README.md)
+
 Buy a 28mm freeze plug
 
 Install freeze plug normal direction for a 5spd transmission
@@ -33,3 +35,5 @@ Bushing / spacer for 5 speed transmission
 5 Speed transmission with “normal” installed freeze plug
 
 ![5-speed transmission with normally installed freeze plug](../images/convert-smt-transmission/04-five-speed-normal-freeze-plug.png)
+
+[Return to index](../README.md)

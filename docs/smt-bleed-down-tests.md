@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # SMT - Bleed-Down Tests
+
+[Return to index](../README.md)
 
 ## Pressure Bleed-Down Test
 
@@ -80,3 +80,5 @@ I have speculated that leakage past an actuator piston seal (the teflon seals) i
 - Run 8.5 sec
 
 ---
+
+[Return to index](../README.md)

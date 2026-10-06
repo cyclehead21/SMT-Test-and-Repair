@@ -2,7 +2,7 @@
 
 # SMT - Position Sensors - Test and Repair
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)
 
 (DO NOT discard bad sensors, they can be repaired!)
 
@@ -336,5 +336,4 @@ Available from Digikey.com
 
 ---
 
-
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

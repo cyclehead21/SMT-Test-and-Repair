@@ -1,5 +1,7 @@
 # SMT - HPU Removal and Overhaul
 
+[Return to index](../README.md)
+
 HPU Part Number: 31360-0W010
 
 **Written by Cyclehead**
@@ -391,3 +393,5 @@ Explanation of fluid flow in the pump cylinder-head block:
 There is a light spring, check ball and plastic cap in the pressure port that prevents fluid reversion. There is a heavy spring and check ball in the pressure relief path. It appears to crack open at 1000psi (roughly 3.55V from the HPU pressure sensor). The pressure relief valve makes a screeching noise when the valve cracks open.
 
 ![Annotated return, pressure, and pressure-relief fluid paths](../images/hpu-removal-and-overhaul/37-pump-fluid-paths.png)
+
+[Return to index](../README.md)

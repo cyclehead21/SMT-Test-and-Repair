@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # SMT - Pressure Accumulator
+
+[Return to index](../README.md)
 
 **Written by Cyclehead21@gmail.com**
 
@@ -163,3 +163,5 @@ Monkeywrenchracing also sells new accumulators. Theirs are currently listed for 
 [https://www.monkeywrenchracing.com/product/mwr-hydraulic-accumulator-mr2-spyder-smt-pump-hpu/](<https://www.monkeywrenchracing.com/product/mwr-hydraulic-accumulator-mr2-spyder-smt-pump-hpu/>)
 
 ---
+
+[Return to index](../README.md)

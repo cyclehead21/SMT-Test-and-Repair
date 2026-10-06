@@ -6,7 +6,7 @@
 
 ## Parking Brake Cables - Failure and Preventive Maintenance
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)
 
 Written by Cyclehead21@gmail.com
 
@@ -254,5 +254,4 @@ Blowing the water out using compressed air:
 
 ---
 
-
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

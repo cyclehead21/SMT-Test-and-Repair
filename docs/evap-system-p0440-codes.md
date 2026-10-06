@@ -1,5 +1,7 @@
 # Evap System troubleshooting notes
 
+[Return to index](../README.md)
+
 Written by cyclehead21@gmail.com
 
 Feel free to copy or share.
@@ -82,4 +84,4 @@ Here you can see the multiple tubes that must be disconnected from the evap cani
 
 [![Removed fuel tank with fittings and hoses visible.](../images/evap-system-p0440-codes/06-removed-fuel-tank.jpg)](../images/evap-system-p0440-codes/06-removed-fuel-tank.jpg)
 
-[Back to chapter list](../README.md)
+[Return to index](../README.md)

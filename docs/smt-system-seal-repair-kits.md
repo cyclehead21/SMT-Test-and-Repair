@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # SMT - Seal Repair Kits
+
+[Return to index](../README.md)
 
 [Cyclehead21@gmail.com](mailto:Cyclehead21@gmail.com)
 
@@ -67,3 +67,5 @@ I can usually accommodate rush shipping. UPS next-day air seems to be pretty rel
 <img src="../images/smt-system-seal-repair-kits/image3.png" alt="HPU seal repair kit components in labeled envelopes" width="624">
 
 ---
+
+[Return to index](../README.md)

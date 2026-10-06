@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # SMT - Pressure Sensors
+
+[Return to index](../README.md)
 
 RevA - Feb 2023
 
@@ -131,3 +131,5 @@ HPU pressure sensor (same as accumulator pressure) is installed on the HPU:
 <img src="../images/pressure-sensors/11-hpu-pressure-vs-voltage.png" alt="HPU Pressure vs Voltage chart" width="624">
 
 ---
+
+[Return to index](../README.md)

@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # Convertible Top Strap Installation
+
+[Return to index](../README.md)
 
 ## Contents
 
@@ -136,3 +136,5 @@ This elastic gives up pretty quickly I think. Next the stitching will pull loose
 ![Source figure](../images/convertible-top-strap-installation/image13.jpg)
 
 ---
+
+[Return to index](../README.md)

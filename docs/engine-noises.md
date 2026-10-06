@@ -1,6 +1,6 @@
-[Back to chapter index](../README.md)
-
 # Engine Noises
+
+[Return to index](../README.md)
 
 Composed by [cyclehead21@gmail.com](mailto:cyclehead21@gmail.com)
 
@@ -34,4 +34,4 @@ Fix: replaced the tensioner PN 16620-22011
 
 [https://github.com/cyclehead21/SMT-Test-and-Repair/blob/main/docs/replacing-the-rod-bearings.md](https://github.com/cyclehead21/SMT-Test-and-Repair/blob/main/docs/replacing-the-rod-bearings.md)
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

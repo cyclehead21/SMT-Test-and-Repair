@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # SMT - Self Relearn Procedure
+
+[Return to index](../README.md)
 
 Composed by [Cyclehead21@gmail.com](mailto:Cyclehead21@gmail.com)
 
@@ -17,3 +17,5 @@ Reconnect the battery and switch on ignition but don’t engage the starter (don
 **Note:** The “self relearn” sequence appears to duplicate some of the “full relearn” processes. If it initiates and completes successfully, then I don’t believe that it is necessary to perform a “full relearn”.
 
 ---
+
+[Return to index](../README.md)

@@ -1,6 +1,6 @@
 # Frunk Lid Latches
 
-[← Back to chapter index](../README.md)
+[Return to index](../README.md)
 
 (Spare tire door latch)
 
@@ -63,4 +63,4 @@ For the metal bar I used a piece of .090 diameter steel wire. The original wire 
 
 ![Frunk latch in the service position with mounting screw exposed](../images/frunk-lid-latches/06-service-position.png)
 
-[← Back to chapter index](../README.md)
+[Return to index](../README.md)

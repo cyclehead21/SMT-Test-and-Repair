@@ -1,6 +1,6 @@
 # Legroom Mod
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)
 
 (Radio support delete)
 
@@ -68,5 +68,4 @@ I borrowed this photo from the Facebook group. This guy made some additional cut
 
 ---
 
-
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

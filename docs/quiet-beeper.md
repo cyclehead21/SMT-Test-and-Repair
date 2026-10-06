@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # SMT - Quiet Beeper
+
+[Return to index](../README.md)
 
 Written by Cyclehead
 
@@ -88,3 +88,5 @@ The beeper is on the top left of the circuit board:
 <img src="../images/quiet-beeper/image7.png" alt="Piezoelectric beeper on the circuit board" width="560">
 
 ---
+
+[Return to index](../README.md)

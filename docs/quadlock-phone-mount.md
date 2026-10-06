@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # Quadlock Compatible Phone Mount
+
+[Return to index](../README.md)
 
 Composed by Cyclehead21@gmail.com
 
@@ -25,3 +25,5 @@ This can all be accomplished without crawling under the dashboard.
 <img src="../images/quadlock-phone-mount/image3.jpg" alt="Square dashboard insert cover with center rivnut" width="624">
 
 ---
+
+[Return to index](../README.md)

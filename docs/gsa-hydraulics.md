@@ -1,7 +1,6 @@
-[← Chapter index](../README.md)
-
-
 # SMT - GSA Hydraulics Tutorial
+
+[Return to index](../README.md)
 
 Written by Cyclehead21@gmail.com
 
@@ -119,4 +118,4 @@ The Shift control pressure leaves the Shift Solenoid via the upper port on the s
 
 ![GSA solenoid bore with yellow thread tracing a fluid passage](../images/gsa-hydraulics/16-solenoid-bore-thread-trace.jpg)
 
-[← Chapter index](../README.md)
+[Return to index](../README.md)

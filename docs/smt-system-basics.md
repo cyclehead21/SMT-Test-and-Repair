@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # SMT - System Basics
+
+[Return to index](../README.md)
 
 Composed by Cyclehead, July 2021
 
@@ -195,3 +195,5 @@ Possibly one of the reverse sensor switches have failed. (There are two). They a
 Alternatively, the copper switch contacts in the console shifter may be crudded up. The console shifter switches are susceptible to damage from spilling a soft drink on top of the shifter.
 
 ---
+
+[Return to index](../README.md)

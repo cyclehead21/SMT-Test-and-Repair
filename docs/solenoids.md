@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # SMT - Solenoids
+
+[Return to index](../README.md)
 
 Composed by Cyclehead
 
@@ -275,3 +275,5 @@ Here is a disassembled (and destroyed) solenoid. Notice the thin metal canister 
 ![Source figure](../images/solenoids/image6.jpg)
 
 ---
+
+[Return to index](../README.md)

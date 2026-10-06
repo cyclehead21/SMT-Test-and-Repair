@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # SMT - Techstream Installation 
+
+[Return to index](../README.md)
 
 This procedure shows how to download a copy of Techstream software directly from Toyota’s website. 
 
@@ -59,3 +59,5 @@ I got his link from a Toyota 4 Runner site. I have not tried it. Please let me k
 https://forum.ih8mud.com/threads/how-to-techstream-in-5-minutes.1034923/
 
 ---
+
+[Return to index](../README.md)

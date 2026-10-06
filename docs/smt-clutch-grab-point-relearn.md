@@ -1,5 +1,7 @@
 # SMT - Clutch Grab Point Relearn
 
+[Return to index](../README.md)
+
 ## Procedure
 
 1. Warm up the car to normal operating temperature.
@@ -20,3 +22,5 @@ Repeat 3 times.
 The Toyota procedure is reproduced below.
 
 ![Toyota repair manual page DI-190: clutch coast learning and sequential manual transmission operating conditions](../images/smt-clutch-grab-point-relearn/01-toyota-clutch-coast-learning.png)
+
+[Return to index](../README.md)

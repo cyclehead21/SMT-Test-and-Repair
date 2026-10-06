@@ -2,7 +2,7 @@
 
 # SMT - Oil Damage to SMT system
 
-[Back to chapter index](../README.md)
+[Return to index](../README.md)
 
 Written by Cyclehead
 
@@ -100,5 +100,4 @@ This is an accumulator with a damaged diaphragm. It was swollen and split. Of co
 
 ---
 
-
-[Back to chapter index](../README.md)
+[Return to index](../README.md)

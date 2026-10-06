@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # Trailer Hitch
+
+[Return to index](../README.md)
 
 Designed by Cyclehead
 
@@ -91,3 +91,5 @@ I towed this 4x8 trailer with my spyder ONE TIME only. It was a little heavy on 
 ![Source figure](../images/mr2-spyder-trailer-hitch/image11.jpg)
 
 ---
+
+[Return to index](../README.md)

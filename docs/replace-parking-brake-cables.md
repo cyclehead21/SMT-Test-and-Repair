@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # Parking Brake Cables - Replace
+
+[Return to index](../README.md)
 
 ## Without Dropping the Fuel Tank
 
@@ -117,3 +117,5 @@ New cable attached to the brake caliper.
 <img src="../images/replace-parking-brake-cables/image7.jpg" alt="New parking brake cable attached to the brake caliper" width="624">
 
 ---
+
+[Return to index](../README.md)

@@ -1,5 +1,7 @@
 # Exhaust Flex Joints
 
+[Return to index](../README.md)
+
 Written by Cyclehead21@Gmail.com
 
 Feel free to share, copy, and duplicate
@@ -99,4 +101,4 @@ Here’s where I cut the flex pipes away from the manifold plate
 
 [![Cut location where the flex joint meets the manifold plate.](../images/exhaust-flex-joints/09-manifold-plate-cut-location.jpg)](../images/exhaust-flex-joints/09-manifold-plate-cut-location.jpg)
 
-[Back to chapter list](../README.md)
+[Return to index](../README.md)

@@ -1,6 +1,6 @@
-[← Chapter index](../README.md)
-
 # Wiring Notes for Cruise Control
+
+[Return to index](../README.md)
 
 ## SMT Clock Spring
 
@@ -56,3 +56,5 @@ I also cut out and resoldered a few feet of extra wire cluttering up the place. 
 ![Source figure](../images/wiring-for-cruise-control/image6.jpg)
 
 ---
+
+[Return to index](../README.md)

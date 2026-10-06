@@ -1,6 +1,6 @@
-[← Back to chapter index](../README.md)
-
 # SMT - Input shaft speed sensor
+
+[Return to index](../README.md)
 
 Composed by <Cyclehead21@gmail.com>
 
@@ -52,4 +52,4 @@ Toyota PN 89413-17010
 - BWD SN8330
 - NGK AU0082
 
-[← Back to chapter index](../README.md)
+[Return to index](../README.md)

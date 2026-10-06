@@ -1,5 +1,7 @@
 # Cabin Belt Molding
 
+[Return to index](../README.md)
+
 ![Cabin belt molding location, marked with an arrow](../images/cabin-belt-molding/01-molding-location.jpg)
 
 ## For Sale
@@ -49,3 +51,5 @@ Lower the convertible top. Remove one 10 mm bolt. Remove the old trim piece. Ins
 My photos above show prototype parts made using TPU filament. The parts for sale are made with ASA material for more heat resistance.
 
 More details and photos here: [LINK](<https://www.facebook.com/share/p/1EKJPohUSf/?>)
+
+[Return to index](../README.md)

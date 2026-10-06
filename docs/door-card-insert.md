@@ -1,5 +1,7 @@
 # Door Card Insert installation
 
+[Return to index](../README.md)
+
 The Spyder has a fabric or leather panel at the top of each door, above the door armrest. As the leather ages, it typically shrinks and pulls away exposing the edges. It is fairly simple to replace with new material.
 
 ## Replacement steps
@@ -53,3 +55,5 @@ The “tray” style insert appears thicker and appears to have more padding:
 The “tray” style has holes drilled in the door card.
 
 ![Door card with the tray-style insert removed and mounting holes visible](../images/door-card-insert/05-tray-mounting-holes.jpg)
+
+[Return to index](../README.md)
