@@ -1,4 +1,4 @@
-# Brake line substitute for SMT hoses
+# SMT - Hoses using Brake line substitute
 
 [Return to index](../README.md)
 
