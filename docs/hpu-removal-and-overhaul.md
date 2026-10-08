@@ -90,7 +90,7 @@ Obviously the moving hydraulic parts cannot tolerate scratches or gouges. Be car
 
 ### 2.1 Pressurized fluid caution
 
-Let the car sit overnight with the battery disconnected. This will allow the accumulator pressure to bleed down. No worries with the hydraulic quick disconnects because they have internal seals that prevent fluid squirting out. However cracking open a freshly charged HPU will get you a bath in brake fluid, and could send a jet of pressurized brake fluid into your eyes. I opened a pressurized HPU one time and it hosed down my whole workbench. It’s best to unthread things slowly when you first crack open the HPU, and be prepared for pressurized fluid.
+Let the car sit overnight with the battery disconnected. This will allow the accumulator pressure to bleed down. No worries with the hydraulic quick disconnects because they have internal seals that prefluid squirting out. However cracking open a freshly charged HPU will get you a bath in brake fluid, and could send a jet of pressurized brake fluid into your eyes. I opened a pressurized HPU one time and it hosed down my whole workbench. It’s best to unthread things slowly when you first crack open the HPU, and be prepared for pressurized fluid.
 
 ### 2.2 Removal Summary
 
@@ -114,7 +114,7 @@ Round up all of your ⅜ extensions and stick them together to make a 2 foot lon
 
 ### 3.2 Block the vent hole
 
-The reservoir vent cap has a circular relief molded into it that will hold an o-ring. Temporarily install an o-ring to block off the air vent hole in the cap, and keep the brake fluid from dribbling all over your crossmember when you flip the HPU upside down. If you have one of my GSA seal kits - use one of the “GSA Solenoid Base” o-rings as a temporary vent cover. Just pick it off carefully after the HPU is removed, so you can use it during your GSA overhaul. Then keep the old oring from the GSA overhaul to use when reinstalling the HPU.
+The reservoir vent cap has a circular relief molded into it that will hold an o-ring. Temporarily install an o-ring to block off the air vent hole in the cap, and keep the brake fluid from dribbling all over your crossmember when you flip the HPU upside down. If you have one of my GSA seal kits - use one of the “GSA Solenoid Base” o-rings as a temporary vent cover. Just pick it off carefully after the HPU is removed, so you can use it during your GSA overhaul. Then keep the old oring from the GSA overhaul to use when reinstalling the HPU.  Metric #212
 
 ![GSA solenoid base O-ring used as a temporary reservoir vent cover](../images/hpu-removal-and-overhaul/02-temporary-vent-cover-ring.jpg)
 
