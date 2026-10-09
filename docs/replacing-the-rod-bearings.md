@@ -76,8 +76,6 @@ Note that aftermarket bearings (bearings not made by Toyota) typically offer “
 
 ### Additional Source Images
 
-*The source Word document contains the following four embedded images at the end. They appear black/blank in the source and are preserved unchanged in this conversion.*
-
 <img src="../images/replacing-the-rod-bearings/image7.jpg" alt="Blank or black source image" width="420">
 
 <img src="../images/replacing-the-rod-bearings/image2.jpg" alt="Blank or black source image" width="420">
