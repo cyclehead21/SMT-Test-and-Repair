@@ -191,7 +191,7 @@ Note: This company name does not show up on any searches. They claim to be made 
 
 COMMENT:  I have personally bought tops from Sierra, Robbins and DiamondMall. All were made using Haartz canvas material. I have compared them side-by-side. All three tops are absolutely identical down to the last stitch, including the "Permalok" window installation that Robbins touts.   In these older videos [VIDEO](<https://youtu.be/JR5osJ8Fh0E>) Sierra used a simple glued joint. Robbins has a [“permalok”](<https://robbinsautotop.com/permalok/>) seal that they claim is superior. It has a heavy plastic trim ring visible on the inside of the top. 
 
-DiamondMall - is NOT a manufacturer, I need to fix this.
+DiamondMall is a retailer, not a manufacturer.
 
 I just received [this $400 vinyl top from Diamondmall](<https://www.ebay.com/itm/285389374814?itmmeta=01KV95EB45EH1T7RCWHGAH9CKA&hash=item427288455e:g:LYgAAOSwcYtjUv52>). Except for the vinyl material, it is identical stitch for stitch, and hole for hole with both the Robbins and Sierra tops I bought years ago. Including the “Perma Lok” window installation! It has the same white plastic tag for a serial number sewn into the same seam on the LH side, but the tag is blank. It has the same stainless steel fittings and springs. It is packaged identically with the same bubble wrap and tissue paper. The shipping box is identical except missing any logo markings. DiamondMall tops are all shipped direct from 321 Todd CT. Oxnard CA - which is the address for Robbins Auto Top, LLC.
 
