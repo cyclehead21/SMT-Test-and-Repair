@@ -190,7 +190,7 @@ Must buy from a retailer
 
 Note: This company name does not show up on any searches. They claim to be made in USA, but that company name is not registered anywhere I can find it.
 
-Comment: I personally bought one Sierra top and one Robbins top at the same time. Both used Haartz canvas material. Both companies were owned by GAHH (at the time). I compared them side-by-side on my workbench. The two tops were absolutely identical down to the last stitch - except, the rear glass retention method was different. [VIDEO](<https://youtu.be/JR5osJ8Fh0E>) Sierra used a simple glued joint. Robbins has a [“permalok”](<https://robbinsautotop.com/permalok/>) seal that they claim is superior. It has a heavy plastic trim ring visible on the INSIDE of the top. Recent Sierra tops purchased from Amazon, were made with the permalok style glass installation, same as Robbins!
+COMMENT:  I have personally bought tops from Sierra, Robbins and DiamondMall. All were made using Haartz canvas material. I have compared them side-by-side. All three tops are absolutely identical down to the last stitch, including the "Permalok" window installation that Robbins touts.   In these older videos [VIDEO](<https://youtu.be/JR5osJ8Fh0E>) Sierra used a simple glued joint. Robbins has a [“permalok”](<https://robbinsautotop.com/permalok/>) seal that they claim is superior. It has a heavy plastic trim ring visible on the inside of the top. 
 
 DiamondMall - Sept 2024 (NOT a manufacturer, I need to fix this)
 
