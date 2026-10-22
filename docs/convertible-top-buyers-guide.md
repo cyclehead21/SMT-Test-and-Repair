@@ -198,7 +198,7 @@ I just received [this $400 vinyl top from Diamondmall](<https://www.ebay.com/itm
 ![Diamondmall tops are shipped from Robbins factory!]
 
 This warranty statement is from Auto Tops Direct.  It may be out of date.  If you're expecting any warranty, you must keep copies of any screenshots or paperwork that makes those promises.  Warranty compensation is typically very hard to collect.
-(../images/convertible-top-buyers-guide/22-Diamondmall-by-Robbins.jpg)
+![Warranty screen shot](../images/convertible-top-buyers-guide/22-Diamondmall-by-Robbins.jpg)
 
 ### Comment on Manufacturers
 
