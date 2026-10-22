@@ -195,7 +195,10 @@ DiamondMall - is NOT a manufacturer, I need to fix this.
 
 I just received [this $400 vinyl top from Diamondmall](<https://www.ebay.com/itm/285389374814?itmmeta=01KV95EB45EH1T7RCWHGAH9CKA&hash=item427288455e:g:LYgAAOSwcYtjUv52>). Except for the vinyl material, it is identical stitch for stitch, and hole for hole with both the Robbins and Sierra tops I bought years ago. Including the “Perma Lok” window installation! It has the same white plastic tag for a serial number sewn into the same seam on the LH side, but the tag is blank. It has the same stainless steel fittings and springs. It is packaged identically with the same bubble wrap and tissue paper. The shipping box is identical except missing any logo markings. DiamondMall tops are all shipped direct from 321 Todd CT. Oxnard CA - which is the address for Robbins Auto Top, LLC.
 
-![Diamondmall tops are shipped from Robbins factory!](../images/convertible-top-buyers-guide/22-Diamondmall-by-Robbins.jpg)
+![Diamondmall tops are shipped from Robbins factory!]
+
+This warranty statement is from Auto Tops Direct.  It may be out of date.  If you're expecting any warranty, you must keep copies of any screenshots or paperwork that makes those promises.  Warranty compensation is typically very hard to collect.
+(../images/convertible-top-buyers-guide/22-Diamondmall-by-Robbins.jpg)
 
 ### Comment on Manufacturers
 
