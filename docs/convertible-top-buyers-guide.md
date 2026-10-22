@@ -105,23 +105,23 @@ Retailers don’t manufacture anything, they just sell tops. (Sorry this is sort
 
 ### Warranties
 
-Robbins will not honor ANY warranty if you install yourself. Robbins demand to see receipts where you paid a “professional” to install the top. I expect they will require that “professional” to be a shop certified by them before they will honor their own warranty. Robbins used to offer a lifetime warranty for their tops. However in April 2020 they quit the lifetime warranty, and now it’s limited to 5 years.
+Robbins will not honor ANY  if you install yourself. Robbins demand to see receipts where you paid a “professional” to install the top. I expect they will require that “professional” to be a shop certified by them before they will honor their own . Robbins used to offer a lifetime  for their tops. However in April 2020 they quit the lifetime , and now it’s limited to 5 years.
 
-“[Himmelinc](<https://himmelinc.com/shop/ols/products/toyota-mr2-spyder-spider-convertible-soft-top-and-glass-window-bordeaux-twill-weave-vinyl>)” offers 3 year warranty, and insist they WILL honor their warranty for user-installed tops.
+“[Himmelinc](<https://himmelinc.com/shop/ols/products/toyota-mr2-spyder-spider-convertible-soft-top-and-glass-window-bordeaux-twill-weave-vinyl>)” offers 3 year , and insist they WILL honor their  for user-installed tops.
 
-[Gahh](<https://gahh.com/warranty>) has a 5 year warranty. It does not say anything about excluding DIY installers.
+[Gahh](<https://gahh.com/>) has a 5 year . It does not say anything about excluding DIY installers.
 
-[Kee](<https://keeautotop.com/pages/warranty>) offers an 8 year written warranty that includes DIY installation.
+[Kee](<https://keeautotop.com/pages/>) offers an 8 year written  that includes DIY installation.
 
-Sierra only has a one year warranty, serviced by [Autotopsdirect](<https://www.autotopsdirect.com/warranty-policies/?_gl=1*1munyxe*_up*MQ..*_ga*MTIxMTU3NzU2OS4xNzU0NjU0MDc3*_ga_9NKJMRJE74*czE3NTQ2NTQwNzYkbzEkZzAkdDE3NTQ2NTQwNzYkajYwJGwwJGgxOTEyMTUxMjUw>). Yet AutoTopsDirect has a “lifetime warranty on their glass bonding, IF YOU KEEP A COPY ( screenshot) from their website. UPDATE Aug 2025: Today their website says only 1 year warranty for glass bonding, for original owner. I would KEEP a dated copy of the warranty statement from their website. They have been very flaky in the past about denying warranty claims. Currently their warranty page has dead links to a “Sierra Tops Warranty” page.
+Sierra only has a one year , serviced by [Autotopsdirect](<https://www.autotopsdirect.com/-policies/?_gl=1*1munyxe*_up*MQ..*_ga*MTIxMTU3NzU2OS4xNzU0NjU0MDc3*_ga_9NKJMRJE74*czE3NTQ2NTQwNzYkbzEkZzAkdDE3NTQ2NTQwNzYkajYwJGwwJGgxOTEyMTUxMjUw>). Yet AutoTopsDirect has a “lifetime  on their glass bonding, IF YOU KEEP A COPY ( screenshot) from their website. UPDATE Aug 2025: Today their website says only 1 year  for glass bonding, for original owner. I would KEEP a dated copy of the  statement from their website. They have been very flaky in the past about denying  claims. Currently their  page has dead links to a “Sierra Tops ” page.
 
-[EZ-On](<https://ezonauto.com/warranty>) says their warranty requires professional installation.
+[EZ-On](<https://ezonauto.com/>) says their  requires professional installation.
 
-[Diamondmall]  says they have a one-year manufacturer’s warranty. 
+[Diamondmall]  says they have a one-year manufacturer’s . 
 
-![Saved AutoTopsDirect glass-window warranty webpage screenshot](../images/convertible-top-buyers-guide/06-autotopsdirect-warranty-screenshot.jpg)
+![Saved AutoTopsDirect glass-window  webpage screenshot](../images/convertible-top-buyers-guide/06-autotopsdirect--screenshot.jpg)
 
-Note: My friend bought a new Sierra top that was defective (rear glass seal came loose after one week), and AutoTopsDirect ghosted him once they found he installed the top himself. He got NO warranty support whatsoever.
+Note: My friend bought a new Sierra top that was defective (rear glass seal came loose after one week), and AutoTopsDirect ghosted him once they found he installed the top himself. He got NO  support whatsoever.
 
 The best protection (if you install yourself) may be to purchase the top from Amazon or another Retailer with a GOOD RETURN POLICY. Inspect it promptly, if there are any quality problems, return it immediately.
 
@@ -197,8 +197,7 @@ I just received [this $400 vinyl top from Diamondmall](<https://www.ebay.com/itm
 
 ![Diamondmall tops are shipped from Robbins factory!] (<https://www.ebay.com/sch/i.html?_ssn=diamondmall&store_name=diamondmall&_oac=1&_trksid=p4429486.m3561.l161211>)
 
-This warranty statement is from Auto Tops Direct.  It may be out of date.  If you're expecting any warranty, you must keep copies of any screenshots or paperwork that makes those promises.  Warranty compensation is typically very hard to collect.
-![Warranty screen shot](../images/convertible-top-buyers-guide/22-Diamondmall-by-Robbins.jpg)
+![DiamondMall top shipped from Robbins Factory](../images/convertible-top-buyers-guide/22-Diamondmall-by-Robbins.jpg)
 
 ### Comment on Manufacturers
 
@@ -253,7 +252,7 @@ Typically, the rear glass will fall out (into the car) on a hot summer day, as t
 
 Usually the glass can simply be re-glued using “3M Window Weld”. It is a very sloppy job, the glue gets smeared on everything you touch. Watch some YouTube videos before you attempt your own repair. Buy some suction-cup clamps and mask off the surface of your top with masking tape.
 
-Robbins and Sierra tops crow about their “permalok” glass installation method. It appears to be poppycock. Especially when Robbins/Sierra offers zero warranty for a DIY installation. Photos below show a lightly used, and 100% garaged Robbins top that came apart after 6 years.
+Robbins and Sierra tops crow about their “permalok” glass installation method. It appears to be poppycock. Especially when Robbins/Sierra offers zero  for a DIY installation. Photos below show a lightly used, and 100% garaged Robbins top that came apart after 6 years.
 
 ![Rear window with failed bonding](../images/convertible-top-buyers-guide/07-rear-glass-bond-failure.jpg)
 
