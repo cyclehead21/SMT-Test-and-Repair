@@ -231,7 +231,7 @@ Companies owned by the consortiums “TopDown”, “River Associates”, and fi
 | [AutoBerry.com](<https://www.autoberry.com/shop/toyota-mr2-spyder-convertible-soft-top-replacement-ez-on-brand-1999-2007/>) | Autoberry | $589 (2019 price) |
 | [AutoTopsDirect.com](<http://autotopsdirect.com>) | Sierra brand | $585 (2019 price) |
 | D D Auto Accessories | Appears to be yet another outlet for Autoberry tops. |  |
-| [DiamondMall (ebay)](<https://www.ebay.com/sch/i.html?_ssn=diamondmall&store_name=diamondmall&_oac=1&_trksid=p4429486.m3561.l161211>) | Appears to be manufactured in the same factory as Robbins and Sierra |  |
+| [DiamondMall (ebay)](<https://www.ebay.com/sch/i.html?_ssn=diamondmall&store_name=diamondmall&_oac=1&_trksid=p4429486.m3561.l161211>) | Confirmed these are manufactured (and shipped direct from) the same factory as Robbins and Sierra |  |
 | E-Bay | Chinese, MorethanTops, DiamondMall |  |
 | [Etsy.com](<https://www.etsy.com/listing/1223976161/handmade-toyota-mr2-spyder-spider?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=mr2+spyder+convertible+top&ref=sc_gallery-1-1&pro=1&cns=1&ret=1&search_preloaded_img=1&plkey=59f0ceb1df945bef83af9e4cd87c14f5e32c8fe8%3A1223976161>) | Himmelinc | $429 (2024 price) |
 | [MR2 Heaven.](<https://mr2heaven.com/collections/mr2-zzw30-spyder-99-2007/products/mr-s-zzw30-soft-top-cover#mz-expanded-view-156067401804>) | Likely Chinese manufacturer. |  |
