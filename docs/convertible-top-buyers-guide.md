@@ -79,7 +79,7 @@ EZ-On and some others have a plastic or rubber trim ring around the exterior per
 
 #### Window edge finishing
 
-Sierra appears to glue their glass to a folded edge of material, resulting in a transition from fabric to glass that doesn’t have any plastic trim piece. The glass is recessed below the surface of the fabric by the thickness of the folded fabric. (2026 update: I’ve learned that Sierra, Diamondmall and GAHH are now ALL using the “perma-lok” system). I don’t have a measurement of the Sierra exposed glass. (Help me out here, somebody). Kee Auto Tops has a raw cut edge on the material where it transitions from vinyl to glass (edge is not folded).
+Sierra appears to glue their glass to a folded edge of material, resulting in a transition from fabric to glass that doesn’t have any plastic trim piece. The glass is recessed below the surface of the fabric by the thickness of the folded fabric. (2026 update: Robbins, Sierra, DiamondMall and GAHH are now ALL using the “perma-lok” system). I don’t have a measurement of the Sierra exposed glass. (Help me out here, somebody). Kee Auto Tops has a raw cut edge on the material where it transitions from vinyl to glass (edge is not folded).
 
 #### Color choices
 
@@ -117,7 +117,7 @@ Sierra only has a one year warranty, serviced by [Autotopsdirect](<https://www.a
 
 [EZ-On](<https://ezonauto.com/warranty>) says their warranty requires professional installation.
 
-[Diamondmall](<https://www.ebay.com/sch/i.html?_ssn=diamondmall&store_name=diamondmall&_oac=1&_trksid=p4429486.m3561.l161211>) (on ebay) says they have a one-year manufacturer’s warranty.
+[Diamondmall]  says they have a one-year manufacturer’s warranty.(<https://www.ebay.com/sch/i.html?_ssn=diamondmall&store_name=diamondmall&_oac=1&_trksid=p4429486.m3561.l161211>) 
 
 ![Saved AutoTopsDirect glass-window warranty webpage screenshot](../images/convertible-top-buyers-guide/06-autotopsdirect-warranty-screenshot.jpg)
 
@@ -187,16 +187,15 @@ No plastic trim around the glass
 
 Xtreme  
 Must buy from a retailer
-
 Note: This company name does not show up on any searches. They claim to be made in USA, but that company name is not registered anywhere I can find it.
 
 COMMENT:  I have personally bought tops from Sierra, Robbins and DiamondMall. All were made using Haartz canvas material. I have compared them side-by-side. All three tops are absolutely identical down to the last stitch, including the "Permalok" window installation that Robbins touts.   In these older videos [VIDEO](<https://youtu.be/JR5osJ8Fh0E>) Sierra used a simple glued joint. Robbins has a [“permalok”](<https://robbinsautotop.com/permalok/>) seal that they claim is superior. It has a heavy plastic trim ring visible on the inside of the top. 
 
-DiamondMall - Sept 2024 (NOT a manufacturer, I need to fix this)
+DiamondMall - is NOT a manufacturer, I need to fix this.
 
-I just received [this $400 vinyl top from Diamondmall](<https://www.ebay.com/itm/285389374814?itmmeta=01KV95EB45EH1T7RCWHGAH9CKA&hash=item427288455e:g:LYgAAOSwcYtjUv52>). Except for the vinyl material, it is identical stitch for stitch, and hole for hole with both the Robbins and Sierra tops I bought years ago. Including the “Perma Lok” window installation! It has the same white plastic tag for a serial number sewn into the same seam on the LH side, but the tag is blank. It has the same stainless steel fittings and springs. It is packaged identically with the same bubble wrap and tissue paper. The shipping box is identical except missing any logo markings. Even the “click” rivets included in a bag are the same!
+I just received [this $400 vinyl top from Diamondmall](<https://www.ebay.com/itm/285389374814?itmmeta=01KV95EB45EH1T7RCWHGAH9CKA&hash=item427288455e:g:LYgAAOSwcYtjUv52>). Except for the vinyl material, it is identical stitch for stitch, and hole for hole with both the Robbins and Sierra tops I bought years ago. Including the “Perma Lok” window installation! It has the same white plastic tag for a serial number sewn into the same seam on the LH side, but the tag is blank. It has the same stainless steel fittings and springs. It is packaged identically with the same bubble wrap and tissue paper. The shipping box is identical except missing any logo markings. DiamondMall tops are all shipped direct from 321 Todd CT. Oxnard CA - which is the address for Robbins Auto Top, LLC.
 
-![Diamondmall top shipped from Robbins factory!](../images/convertible-top-buyers-guide/22-Diamondmall-by-Robbins.jpg)
+![Diamondmall tops are shipped from Robbins factory!](../images/convertible-top-buyers-guide/22-Diamondmall-by-Robbins.jpg)
 
 ### Comment on Manufacturers
 
