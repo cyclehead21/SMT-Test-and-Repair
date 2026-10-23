@@ -51,7 +51,7 @@ Haartz “twill grain” vinyl
 
 “Pinpoint” grain pattern vinyl
 
-![Pinpoint-grain vinyl texture](../images/convertible-top-buyers-guide/05-pinpoint-grain-vinyl.jpg)
+<img src="../images/convertible-top-buyers-guide/05-pinpoint-grain-vinyl.jpg" width="450">
 
 ### Design
 
