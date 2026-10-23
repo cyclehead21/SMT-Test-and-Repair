@@ -37,7 +37,7 @@ Material choices are 1) Canvas/rubber laminate, or 2) PVC/vinyl.
 
 Sample photos:
 
-![Stayfast fabric sample](../images/convertible-top-buyers-guide/01-stayfast-fabric.jpg)
+![Stayfast fabric sample]<img src="../images/convertible-top-buyers-guide/01-stayfast-fabric.jpg" alt="Stayfast fabric sample" width="400"> 
 
 ![Twillfast fabric sample](../images/convertible-top-buyers-guide/02-twillfast-fabric.jpg)
 
