@@ -124,7 +124,7 @@ DiamondMall Warranty Screenshot.
 ![DiamondMall Warranty screenshot](../images/convertible-top-buyers-guide/23-DiamondMall%20Warranty%202026.png)
 
 AutoTopsDirect had this warranty page on their website.  I'm not certain if it's still posted there.
-![AutoTopsDirect webpage screenshot](../images/convertible-top-buyers-guide/06-autotopsdirect-warranty-screenshot.jpg)
+<img src="../images/convertible-top-buyers-guide/06-autotopsdirect-warranty-screenshot.jpg" width="450">
 
 Note: My friend bought a new Sierra top that was defective (rear glass seal came loose after one week), and AutoTopsDirect ghosted him once they found he installed the top himself. He got NO  support whatsoever.
 
