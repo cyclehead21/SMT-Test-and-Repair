@@ -47,7 +47,7 @@ Sample photos:
 
 Haartz “twill grain” vinyl
 
-![Haartz twill-grain vinyl texture](../images/convertible-top-buyers-guide/04-twill-grain-vinyl.jpg)
+<img src="../images/convertible-top-buyers-guide/04-twill-grain-vinyl.jpg" width="450">
 
 “Pinpoint” grain pattern vinyl
 
