@@ -202,7 +202,7 @@ I just received [this $400 vinyl top from Diamondmall](<https://www.ebay.com/itm
 
 ![Diamondmall tops are shipped from Robbins factory!] (<https://www.ebay.com/sch/i.html?_ssn=diamondmall&store_name=diamondmall&_oac=1&_trksid=p4429486.m3561.l161211>)
 
-![DiamondMall top shipped from Robbins Factory](../images/convertible-top-buyers-guide/22-Diamondmall-by-Robbins.jpg)
+<img src="../images/convertible-top-buyers-guide/22-Diamondmall-by-Robbins.jpg" width="400">
 
 ### Comment on Manufacturers
 
