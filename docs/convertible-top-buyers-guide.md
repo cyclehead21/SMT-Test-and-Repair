@@ -119,6 +119,8 @@ Sierra only has a one year , serviced by [Autotopsdirect](<https://www.autotopsd
 
 [Diamondmall](https://www.ebay.com/itm/314752807973?fits=Model%3AMR2+Spyder%7CMake%3AToyota&_skw=toyota+mr2+s+pyder&itmmeta=01M5NBPDYJFPBG9TTXNSYK1005&hash=item4948bab425:g:loEAAOSw6gJnPk~X) says they have a one-year manufacturer’s warranty. 
 
+![DiamondMall Warranty screenshot](../images/convertible-top-buyers-guide/23-DiamondMall%20Warranty%202026.png)
+
 AutoTopsDirect had this warranty page on their website.  I'm not certain if it's still posted there.
 ![AutoTopsDirect webpage screenshot](../images/convertible-top-buyers-guide/06-autotopsdirect-warranty-screenshot.jpg)
 
