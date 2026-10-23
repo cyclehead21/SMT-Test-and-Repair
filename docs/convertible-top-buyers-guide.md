@@ -41,7 +41,7 @@ Sample photos:
 
 <img src="../images/convertible-top-buyers-guide/02-twillfast-fabric.jpg" width="400">
 
-![Sonnenland fabric sample](../images/convertible-top-buyers-guide/03-sonnenland-fabric.jpg)
+<img src="../images/convertible-top-buyers-guide/03-sonnenland-fabric.jpg" width="400">
 
 2. Vinyl material is also made by Haartz, and many others I imagine. Vinyl materials can have a wide range of surface textures molded into the exterior - from fake leather to tiny pyramids arranged in a grid. They use names such as Pinpoint, Bison, Twill Weave, Cabrio and Sailcloth. “Pinpoint” is the tiny pyramid texture, and “bison” is an imitation leather texture. Many Haartz vinyls have a black interior surface. Many Chinese vinyls seem to have lighter tan or white interior surface fabrics. The one Chinese top I bought was made with inferior material, very thin and lightweight. I would not invest the labor to install a Chinese top.
 
