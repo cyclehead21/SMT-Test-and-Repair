@@ -39,7 +39,7 @@ Sample photos:
 
 ![Stayfast fabric sample]<img src="../images/convertible-top-buyers-guide/01-stayfast-fabric.jpg" width="400"> 
 
-![Twillfast fabric sample](../images/convertible-top-buyers-guide/02-twillfast-fabric.jpg)
+![Twillfast fabric sample]<img src="../images/convertible-top-buyers-guide/02-twillfast-fabric.jpg" width="400">
 
 ![Sonnenland fabric sample](../images/convertible-top-buyers-guide/03-sonnenland-fabric.jpg)
 
