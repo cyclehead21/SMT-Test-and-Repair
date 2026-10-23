@@ -117,9 +117,9 @@ Sierra only has a one year , serviced by [Autotopsdirect](<https://www.autotopsd
 
 [EZ-On](<https://ezonauto.com/>) says their  requires professional installation.
 
-Diamondmall says they have a one-year manufacturer’s . 
+Diamondmall says they have a one-year manufacturer’s warranty. 
 
-![AutoTopsDirect webpage screenshot](.../images/convertible-top-buyers-guide/06-autotopsdirect-warranty-screenshot.jpg)
+![AutoTopsDirect webpage screenshot](../images/convertible-top-buyers-guide/06-autotopsdirect-warranty-screenshot.jpg)
 
 Note: My friend bought a new Sierra top that was defective (rear glass seal came loose after one week), and AutoTopsDirect ghosted him once they found he installed the top himself. He got NO  support whatsoever.
 
