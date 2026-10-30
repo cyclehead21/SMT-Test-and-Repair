@@ -303,6 +303,8 @@ Tip: The forward spring on the big “rain gutter” cable must be screwed into 
 
 These photos show the spring and screw.
 
+![Grind a flat on the washer](../images/convertible-top-installation/77-Grind-flat-on-washer.HEIC)
+
 ![Forward spring and screw for the side cable](../images/convertible-top-installation/75-forward-spring-and-cable.jpg)
 
 The cable must be tucked under the metal tab, and the tab bent back down. To reach the forward spring screw, you really need to have the whole forward piece of material loose (unhooked from the forward corners). To unhook the forward corners, you need to have the cable free (not trapped under the tab). So….
