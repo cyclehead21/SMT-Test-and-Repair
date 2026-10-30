@@ -294,6 +294,9 @@ This is the cross-cable. Make sure it’s installed before you cover everything 
 
 ![Cross-cable before the headliner flap is installed](../images/convertible-top-installation/74-cross-cable.jpg)
 
+Headliner flap:  This piece of black cloth fabric is the last step.  It reaches forward from Bow #4 to Bow #2, where the plastic strip sewn to the forward edge is tucked behind the metal flange on Bow #2.  There is a trick with this plastic strip - it should be pushed in behind the metal flange and flipped 180 degrees (as if you're rolling the fabric around the plastic strip).  This allows the plastic strip to be trapped by the metal flange.  It is hard to flip the small strip upside down, as the roof fabric is stretched tightly, leaving little room for your fingers.  I made a simple plastic tool that worked wonderfully for this job.  I started the plastic strip in the gap behind the flange, then used the plastic tool to finish flipping the strip upside down, locking it behind the flange.   I made it from a small scrap of "expanded PCV sheet" about 1/16" thick.  I heated the edge with a heat gun and rolled it over a piece of brake line tubing to make the curled edge.  Then sanded the sharp corners off with a wood rasp.  
+
+
 Tip: There is a trick to assembling the forward sides. The forward spring on the big “rain gutter” cable must be screwed into the top from above.
 
 These photos show the spring and screw.
