@@ -256,7 +256,7 @@ Remove both seats for better access.
 
 Remove the large cardboard firewall cover also. (Shortcut: You can omit this step by simply bending the top flange of the cardboard cover away to expose the 10mm nuts).   This shows how to install/remove the fabric from the threaded studs - the fabric goes inside the plastic "U" rain gutter.  
 
-[](.../images/convertible-top-installation/83-leave-the-rain-gutter-in-place.HEIC)
+![](.../images/convertible-top-installation/83-leave-the-rain-gutter-in-place.HEIC)
 
 Shortcut: It’s seldom worth saving your old top, so there’s no reason to work so hard to preserve it during removal. Save time by slicing the old top around the entire back of the car (below the glass). This will allow quick access to the 10mm nuts for removal. BE CAREFUL not to slice through the nylon straps that run diagonally on both sides.
 
