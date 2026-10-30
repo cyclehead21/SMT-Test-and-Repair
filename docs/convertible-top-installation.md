@@ -284,7 +284,11 @@ This is the “bubble top preventer” listing strip. I brush contact cement ont
 
 ![Listing strip attachment with the top tensioned](../images/convertible-top-installation/71-listing-strip.jpg)
 
-Get the fabric flap and the nylon strap routed as shown. (The nylon strap goes THROUGH the eye, sorry this is not a clear photo). If the side cable doesn’t fall into the rain gutter by itself while raising the top, then tighten the zip tie some more. Overlap the holes if you need to.
+Get the fabric flap and the nylon strap routed as shown. (The nylon strap goes THROUGH the eye, sorry this is not a clear photo). If the side cable doesn’t fall into the rain gutter by itself while raising the top, then tighten the zip tie some more. Overlap the holes if you need to.   It's best to punch the holes clean through the fabric so they won't tear out.   I'd also use two zip ties for the same reason.
+
+![](../images/convertible-top-installation/79-two-zip-ties.HEIC)
+
+![](..images/convertible-top-installation/81-hole-punch-thru-fabric.HEIC)
 
 ![Fabric flap and nylon strap routing](../images/convertible-top-installation/72-strap-and-flap-routing.jpg)
 
