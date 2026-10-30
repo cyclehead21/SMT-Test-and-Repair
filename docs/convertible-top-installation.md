@@ -301,7 +301,7 @@ Headliner flap:  This piece of black cloth fabric is the last step.  It reaches 
 
 Tip: The forward spring on the big “rain gutter” cable must be screwed into the top from above.  You need to install this screw before you screw down the side flaps above the windows.  You can install the screw after the top has been stretched over Bow #1.  I always forget to install it earlier.   Just push the ragtop fabric to the side as little as necessary to reach the screw head.  You'll need to find a smaller screw and washer, or grind a flat side onto the original screw and washer - because the Robbins/Sierra/Diamondmall spring has a short reach.  (see the photos)
 
-These photos show the spring and screw.
+These photos show the spring and screw, with the washer ground flat to fit the spring.
 
 ![Grind a flat on the washer](../images/convertible-top-installation/77-Grind-flat-on-washer.HEIC)
 
