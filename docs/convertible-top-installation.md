@@ -306,6 +306,9 @@ Headliner flap:  This piece of black cloth fabric is the last step.  It reaches 
 
 ![Plastic headliner tool](../images/convertible-top-installation/76-plastic-tool-for-headliner.HEIC)
 
+The metal flange at the front of the headliner flap is supposed to be bent back with a small hammer to securely trap the plastic strip.  I don't like hammering that part more than absolutely necessary (for the benefit of subsequent ragtop replacements).   On my last top I merely hammered the two ends slightly.  I think the remainder of the strip will stay secure.   Whatever you do, don't go crazy smashing that metal flange, you just want to SLIGHTLY close the gap holding the plastic strip.
+
+![](../images/convertible-top-installation/78-hammer-the-flange.HEIC)
 
 Tip: The forward spring on the big “rain gutter” cable must be screwed into the top from above.  You need to install this screw before you screw down the side flaps above the windows.  You can install the screw after the top has been stretched over Bow #1.  I always forget to install it earlier.   Just push the ragtop fabric to the side as little as necessary to reach the screw head.  You'll need to find a smaller screw and washer, or grind a flat side onto the original screw and washer - because the Robbins/Sierra/Diamondmall spring has a short reach.  (see the photos)
 
