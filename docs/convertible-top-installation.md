@@ -284,7 +284,7 @@ These are the unfinished side flaps. As in the picture, I believe you should ins
 
 This is the “bubble top preventer” listing strip. I brush contact cement onto the fabric and the metal frame. Let both surfaces dry until they aren’t shiny/wet any more. Then press them together. Try to pull them very tight before you press them down. NOTICE that the top is pre-tensioned by having everything else installed, and the ragtop latches secured and latched. (Tight tight tight!). Some of the instructions above say to glue this flap before you tension the outer fabric. I DO NOT think that’s a good idea to attach this flap before the top material is in its final, tensioned position.  I used "Wildwood Contact Cement" in the small glass bottle.   The cement is very drippy, so lay some old newspapers or towels on the cabin floor beneath Bow #2, before you start brushing this stuff out.   Brush it on both parts and LET IT DRY.   Then press the fabric onto Bow #2 and it will stick.
 
-[](../images/convertible-top-installation/80-weldwood-contact-cement.HEIC)
+![](../images/convertible-top-installation/80-weldwood-contact-cement.HEIC)
 
 ![Listing strip attachment with the top tensioned](../images/convertible-top-installation/71-listing-strip.jpg)
 
