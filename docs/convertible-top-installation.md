@@ -192,9 +192,9 @@ Warranty: Note that DIY installation means you get zero warranty coverage. Robbi
 
 ![Robbins installation instructions, source page image 1](../images/convertible-top-installation/59-robbins-source-page-01.png)
 
-Panel #2 - the plastic strip (shown) is sewn to the top on original Toyota top. However this strip is omitted on Robbins/Sierra top. They only provide a flap of material. You must trim the excess on the lower edge, and punch your own holes.
+Panel #2 - the plastic strip (shown) is sewn to the top on original Toyota top. However this strip is omitted on Robbins/Sierra top. They only provide a flap of material. You must trim the excess on the lower edge, and punch your own holes.   (See more photos in section 7 below)
 
-Panel #5: the spring included with the Robbins/Sierra top will not work with the Toyota screw & captive washer. The washer is too big. Go find a short M8x1 bolt. I found one with a round head (recessed hex) to use instead of the factory screw.
+Panel #5: the spring included with the Robbins/Sierra top will not work with the Toyota screw & captive washer. The washer is too big. Go find a short M8x1 bolt. I found one with a round head (recessed hex) to use instead of the factory screw.  Or grind the large washer flat on one side to fit the spring.  (See more photos in section 7 below)
 
 Panel #6 - don’t go crazy bending the little tab. Just pry it a tiny bit upward to release the cable.
 
@@ -204,9 +204,9 @@ Panel #7: Don’t pry the metal strip very far. About ⅛ inch opening should be
 
 Panel #8: KEEP the cable and the two springs. Do not throw them out with your old top.
 
-Panel #9: Keep the metal clip from both sides. I had to elongate one of the holes since the new top had slightly wider spacing.
+Panel #9: Keep the metal clip from both sides. I had to elongate one of the holes since the new top had slightly wider spacing.  (See more photos in section 7 below)
 
-Panel #11: I suppose it’s possible to leave the big cardboard piece in the car, as they show in the pictures. I haven’t tried it that way. I removed one seat from the car for access. Pull the large cardboard deck cover from one side and take it out beneath the big metal cross bar, where the seat used to be. Throw an old towel on the metal shelf to keep from scratching your new glass during installation.
+Panel #11: It’s possible to leave the big cardboard piece in the car, as they show in the pictures. I've done it both ways. If you prefer, you can remove one seat from the car for access. Pull the large cardboard deck cover from one side and take it out beneath the big metal cross bar, where the seat used to be. Throw an old towel on the metal shelf to keep from scratching your new glass during installation.
 
 Panel #12: There is one bolt hidden at the very front of this bracket. It is accessible with the top stowed/folded. See the inset photo, at the far right/top corner.
 
@@ -214,7 +214,7 @@ Panel #12: There is one bolt hidden at the very front of this bracket. It is acc
 
 Panel #16: Clean out the crap, and look over the vinyl “rain bucket” for cracks or splits. If it’s damaged, you want to patch it up now.
 
-Panel #17: The rivets are not a big deal. Robbins/Sierra include some fancy “click” rivets with large heads on both sides. They (later) say to set the rivets using a hammer. That doesn’t work - it only smashes them and they fall apart. I only had success by using a rivet press (Cheap chinese tool). Overall, though these rivets only serve one function, to hold the floppy pieces together while you carry it back to the car. Once the top is bolted into the car, these rivets serve no purpose whatsoever. So you can decide if you want to fight with them…or not. Either way you must drill out the old rivets and transfer the heavy plastic rain gutter to the new top installation. Edit: most recently I have quit removing the heavy plastic gutter at all. Leave it in the car! Pull away the inner flap and tuck the new fabric onto the studs. Then push the flap back into place. Avoid the hassle of removing the large plastic channel, and the hassle with rivets.
+Panel #17: The rivets are not necessary, and mostly a waste of time. Robbins/Sierra include some fancy “click” rivets with large heads on both sides. They (later) say to set the rivets using a hammer. That doesn’t work - it only smashes them and they fall apart. I only had success by using a rivet press (Cheap chinese tool). Overall, though these rivets only serve one function, to hold the floppy pieces together while you carry it back to the car. Once the top is bolted into the car, these rivets serve no purpose whatsoever. So you can decide if you want to fight with them, or not. Either way you must drill/grind off the old rivets and transfer the heavy plastic rain gutter to the new top installation. Edit: Most recently I have quit removing the heavy plastic gutter at all.  You must find a way to cut the old rivets out.  Then leave the plastic gutter in the car! Pull away the inner flap and tuck the new fabric onto the studs. Then push the flap back into place. Avoid the hassle of removing the large plastic channel, and the hassle with rivets.
 
 Panel #18: This is the “ear strap”. I think it actually causes more wear to the top. So I leave mine off the car, and let the “ears” stick up. You can fold the “ears” by hand if you want to look tidy for a car show.
 
