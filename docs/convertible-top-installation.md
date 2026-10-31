@@ -254,7 +254,7 @@ In no particular sequence. These photos show details mentioned in the Robbins ti
 
 Remove both seats for better access.
 
-Remove the large cardboard firewall cover also. (Shortcut: You can omit this step by simply bending the top flange of the cardboard cover away to expose the 10mm nuts).   This shows how to install/remove the fabric from the threaded studs - the fabric goes inside the plastic "U" rain gutter.  
+Remove the large cardboard firewall cover also. (Shortcut: You can omit this step by simply bending the top flange of the cardboard cover away to expose the 10mm nuts).   In this photo, I have bent the cardboard cover away, and my hand is inside the plastic rain gutter where the fabric goes.  
 
 ![](../images/convertible-top-installation/83-leave-the-rain-gutter-in-place.HEIC)
 
