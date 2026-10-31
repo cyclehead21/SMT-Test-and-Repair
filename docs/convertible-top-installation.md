@@ -306,7 +306,7 @@ Headliner flap:  This piece of black cloth fabric is the last step.  It reaches 
 
 ![Plastic headliner tool](../images/convertible-top-installation/76-plastic-tool-for-headliner.HEIC)
 
-The metal flange at the front of the headliner flap is supposed to be bent back with a small hammer to securely trap the plastic strip.  I don't like hammering that part more than absolutely necessary (for the benefit of subsequent ragtop replacements).   On my last top I merely hammered the two ends slightly.  I think the remainder of the strip will stay secure.   Whatever you do, don't go crazy smashing that metal flange, you just want to SLIGHTLY close the gap holding the plastic strip.
+The metal flange at the front of the headliner flap is supposed to be bent back with a small hammer to securely trap the plastic strip.  I don't like hammering that part more than absolutely necessary (for the benefit of subsequent ragtop replacements).   On my last top I merely hammered the two ends slightly.  I think the remainder of the strip will stay secure.   Whatever you do, don't go crazy smashing that metal flange, you just want to SLIGHTLY close the gap holding the plastic strip.   Note:  They sew a piece of scratchy velcro hooks to the ends of the plastic strip.  The mating velcro pile is usually missing from the ragtop frame.  The fabric piece of hooks obstructed the plastic strip, preventing it from slipping into the gap behind the flange, so I simply cut the velcro piece away on both sides. 
 
 ![](../images/convertible-top-installation/78-hammer-the-flange.HEIC)
 
