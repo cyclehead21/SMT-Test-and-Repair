@@ -48,6 +48,7 @@ Alternatively, you can buy or make a nice tool like this. (.100 inch thick steel
 
 ![Quick-disconnect release tool held in a hand.](../images/quick-disconnect-hoses/02-quick-disconnect-tool.jpg)
 
+All dimensions are in millimeters.
 ![SMT QD tool orthographic engineering drawing with dimensions and notch geometry.](../images/quick-disconnect-hoses/03-smt-qd-tool-drawing.jpg)
 
 ## Releasing the connectors
