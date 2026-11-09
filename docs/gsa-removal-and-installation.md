@@ -195,6 +195,7 @@ Be sure you have the long bolt in place in the GSA before you cram the GSA into 
 
 ### 5.3
 
+The Adapter Link is installed with one 14mm head bolt.  It must be properly torqued to avoid problems in the future.
 The **<u>factory torque spec for this bolt is 18 ft.lbs</u>!** That’s a lot of torque on an M7 bolt.
 
 Note: Just for information - a bolt that is not tight enough will allow a joint to move under load. This will cause the bolt to fail in fatigue. Whereas a properly torqued bolt in the same joint will never see a fluctuating load, and will never suffer fatigue failure. So it’s <u>important to get this bolt tightened correctly</u>. I have seen quite a few SMT failures due to this particular bolt failing from fatigue. This joint sees motion with every gear shift so the bolt must be properly torqued. (You must have a free running bolt to allow you to apply the correct torque. If yours is unusually tight, in theory you should add the free-running torque to the factory spec torque. Read on...)
