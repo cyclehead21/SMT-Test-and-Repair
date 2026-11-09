@@ -12,23 +12,23 @@ Feel free to copy and share, just give me a little credit!
 
 ## Contents
 
-1.  Background
+1.  [Background](#1-background)
 
-2.  Design
+2.  [Design](#2-design)
 
-3.  Function
+3.  [Function](#3-function)
 
-4.  Tests
+4.  [Tests](#4-tests)
 
-5.  Failures
+5.  [Failures](#5-failures)
 
-6.  Disassembly
+6.  [Disassembly](#6-disassembly)
 
-7.  Repairs
+7.  [Repairs](#7-repairs)
 
-8.  Reassembly
+8.  [Reassembly](#8-reassembly)
 
-9.  Photos
+9.  [Photos](#9-photos)
 
 ## 1. Background
 
