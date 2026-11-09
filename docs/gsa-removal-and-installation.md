@@ -195,14 +195,14 @@ Be sure you have the long bolt in place in the GSA before you cram the GSA into 
 
 ### 5.3
 
-The Adapter Link is installed with one 14mm head bolt.  It must be properly torqued to avoid problems in the future.
+The Adapter Link is installed with one 12m head bolt.  It must be properly torqued to avoid problems in the future.
 The **<u>factory torque spec for this bolt is 18 ft.lbs</u>!** That’s a lot of torque on an M7 bolt.
 
 Note: Just for information - a bolt that is not tight enough will allow a joint to move under load. This will cause the bolt to fail in fatigue. Whereas a properly torqued bolt in the same joint will never see a fluctuating load, and will never suffer fatigue failure. So it’s <u>important to get this bolt tightened correctly</u>. I have seen quite a few SMT failures due to this particular bolt failing from fatigue. This joint sees motion with every gear shift so the bolt must be properly torqued. (You must have a free running bolt to allow you to apply the correct torque. If yours is unusually tight, in theory you should add the free-running torque to the factory spec torque. Read on...)
 
 Note regarding replacement bolts: I bought some new bolts from Toyota. Perhaps they were just a bad batch, but the very-fine-thread bolts were all slightly oversized with poorly formed threads. They were so very tight that I was afraid I was stripping threads as I threaded one into the shifter shaft. I ended up chasing the bolt threads with an M7x.075 die. Then I used some low strength loc-tite. If you’re fighting the oversized threads (like mine from Toyota) your free-running torque will be very high, and you will not get the proper preload on the joint.
 
-Shift the transmission into neutral so you can thread this bolt into the shaft. Use a 12mm socket to tighten through the access window. If you can’t find room for a torque wrench, you can exert 18 lbs pull on a 12 inch long wrench. Or 36 lbs pull on a 6 inch long wrench!
+Shift the transmission into neutral so you can thread this bolt into the shaft. Use a 12mm socket to tighten through the access window. If you can’t find room for a torque wrench, you can exert 18 lbs pull on a 12 inch long wrench. Or 36 lbs pull on a 6 inch long wrench.  (Torque = force x lever arm)
 
 ### 5.3
 
