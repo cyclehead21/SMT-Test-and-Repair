@@ -194,7 +194,7 @@ Feed the three hydraulic hoses back over the top of the transmission. Be careful
 Be sure you have the long bolt in place in the GSA before you cram the GSA into position. You cannot install the long bolt AFTER the GSA is in position - there’s no room. When the GSA is in position correctly, it picks up two alignment pins. When you get the GSA close to installed, use a screwdriver in the shifter shaft on the back of the transmission to manually shift into a gear that will push the shaft forward into (towards) the GSA - this helps hold the GSA in position while you connect things. Look in the access window with a mirror to make sure the actuator link mounting bolt hole is lining up with the shifter shaft hole, where the very fine thread bolt goes.
 
 ### 5.3
-
+INSERT PHOTO
 The Adapter Link is installed with one 12m head bolt.  It must be properly torqued to avoid problems in the future.
 The **<u>factory torque spec for this bolt is 18 ft.lbs</u>!** That’s a lot of torque on an M7 bolt.
 
