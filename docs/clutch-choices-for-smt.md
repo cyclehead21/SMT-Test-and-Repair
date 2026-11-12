@@ -10,6 +10,7 @@ I have installed this “not for SMT” clutch and throwout bearing kit on two S
 
 Valeo \#62125203 stage II clutch assy.
 
+
 The clutch kits below have also been confirmed to work with SMT:
 
 XTD STAGE 2 Clutch & Flywheel kit, item no. 383388192630
@@ -20,17 +21,15 @@ Exedy Model No. TYK7334. (tested by Ross Burgess, Thanks!)
 
 Aisin Model No. CKT-034 clutch kit
 
+
 The clutch kits below will ONLY work with a modification:
 
 “Brute Power” Kit \#90147 is too thick and places the clutch fork too close to the GSA. It will ONLY work if you add a bent washer under the pyramid fitting.
 
-Sachs Part no. K70079-03
-
-“Stock replacement clutch kit.”
-
-Clutch fork is about 18mm (should be 25mm). This MAY be repairable by adding a washer under the pyramid fitting.
+Sachs Part no. K70079-03 “Stock replacement clutch kit.”  Clutch fork is about 18mm away (should be 25mm). This MAY be repairable by adding a washer under the pyramid fitting.
 
 When the clutch fork position is too close to the GSA, the TCU will not complete relearn. It may cycle the clutch forever, or it may simply fail to complete the relearn and won’t show any error codes.
+
 
 ## Stackup Height
 
