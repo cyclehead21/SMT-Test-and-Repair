@@ -16,11 +16,11 @@ These clutch kits have also been confirmed to work with SMT:
 
 Item no. 383388192630
 
-XTD model no. **FRX8924R411.**
+XTD Model No. FRX8924R411
 
-Exedy “KTY03” …. ??
+Exedy Model No. TYK7334. (tested by Ross Burgess, Thanks!)
 
-Aisin CKT-034 clutch kit
+Aisin Model No. CKT-034 clutch kit
 
 These clutch kits will only work with a modification:
 
@@ -30,7 +30,7 @@ Sachs Part no. K70079-03
 
 “Stock replacement clutch kit.”
 
-Clutch fork is about 18mm (should be 25mm). This may be repairable by adding a washer under the pyramid fitting.
+Clutch fork is about 18mm (should be 25mm). This MAY be repairable by adding a washer under the pyramid fitting.
 
 When the clutch fork position is too close to the GSA, the TCU will not complete relearn. It may cycle the clutch forever, or it may simply fail to complete the relearn and won’t show any error codes.
 
