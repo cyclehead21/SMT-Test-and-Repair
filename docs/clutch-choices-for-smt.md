@@ -12,9 +12,7 @@ Valeo \#62125203 stage II clutch assy.
 
 These clutch kits have also been confirmed to work with SMT:
 
-**XTD STAGE 2 Clutch & Flywheel kit**
-
-Item no. 383388192630
+XTD STAGE 2 Clutch & Flywheel kit, item no. 383388192630
 
 XTD Model No. FRX8924R411
 
