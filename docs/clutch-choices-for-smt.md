@@ -10,7 +10,7 @@ I have installed this “not for SMT” clutch and throwout bearing kit on two S
 
 Valeo \#62125203 stage II clutch assy.
 
-These clutch kits have also been confirmed to work with SMT:
+The clutch kits below have also been confirmed to work with SMT:
 
 XTD STAGE 2 Clutch & Flywheel kit, item no. 383388192630
 
@@ -20,7 +20,7 @@ Exedy Model No. TYK7334. (tested by Ross Burgess, Thanks!)
 
 Aisin Model No. CKT-034 clutch kit
 
-These clutch kits will only work with a modification:
+The clutch kits below will ONLY work with a modification:
 
 “Brute Power” Kit \#90147 is too thick and places the clutch fork too close to the GSA. It will ONLY work if you add a bent washer under the pyramid fitting.
 
