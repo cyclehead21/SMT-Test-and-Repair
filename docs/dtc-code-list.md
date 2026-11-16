@@ -1,6 +1,10 @@
-# DTC Code List
+# DTC / CEL / Error Code List
 
 [Return to index](../README.md)
+
+I compiled this list to simplify looking up error codes.  Toyota changed codes at some point, creating the need for this "crossover list".
+I have done my best to ensure this list is accurate in accordance with the Big Green Book (BGB) Toyota Factory Repair Manual.
+Cyclehead21@gmail.com
 
 ## Contents
 
