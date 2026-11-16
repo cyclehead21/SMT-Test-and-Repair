@@ -16,7 +16,7 @@ Compiled by Cyclehead21@gmail.com.
 - [Door Card Insert Installation](docs/door-card-insert.md)
 - [Door Wedges](docs/door-wedges.md)
 - [Drain Bag “Side Gate Seal” Repair](docs/drain-bag-side-gate-seal-repair.md)
-- [DTC Code List](docs/dtc-code-list.md)
+- [DTC / CEL / Error Code List](docs/dtc-code-list.md)
 - [Engine Diaper Covers](docs/engine-diaper-covers.md)
 - [Engine Lid Hinge Mod](docs/engine-lid-hinge-mod.md)
 - [Engine Noises](docs/engine-noises.md)
